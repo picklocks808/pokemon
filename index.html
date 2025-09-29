@@ -30,16 +30,17 @@ input[type=text] {
 input[type=text]:focus { border-color:#666; }
 
 .autocomplete-suggestions {
-  max-height:200px;
+  max-height:160px;
   overflow-y:auto;
   background:white;
   position:absolute;
   z-index:1000;
-  width:100%;
+  width:calc(100% - 40px);
+  left:20px;
+  top:62px;
   border-radius:8px;
   box-shadow:0 2px 6px rgba(0,0,0,0.2);
   display:none;
-  margin-top:4px; /* little gap below search bar */
 }
 .autocomplete-suggestion {
   padding:8px 12px;
@@ -64,9 +65,31 @@ input[type=text]:focus { border-color:#666; }
 }
 @keyframes fadeIn { from{opacity:0; transform:scale(0.97);} to{opacity:1; transform:scale(1);} }
 
-.pokemon-image { flex:1 1 250px; text-align:center; }
-.pokemon-image img { width:260px; height:260px; filter:drop-shadow(0 0 12px rgba(0,0,0,0.3)); }
-.pokemon-info { flex:2 1 300px; padding:20px; }
+.pokemon-image {
+  flex:1 1 250px;
+  text-align:center;
+  position:relative;
+}
+
+.pokemon-image img {
+  width:260px;
+  height:260px;
+  /* glow will be dynamically applied via JS */
+}
+
+.pokemon-info {
+  flex:2 1 300px;
+  padding:20px;
+}
+
+#pokemon-name {
+  font-size:26px;
+  font-weight:bold;
+  text-align:left;
+  margin-bottom:6px;
+  text-shadow:none;
+  /* glow will be dynamically applied via JS */
+}
 
 .types span {
   display:inline-block;
@@ -81,11 +104,9 @@ ul { list-style:none; padding-left:0; margin:5px 0; display:flex; flex-wrap:wrap
 ul li {
   background:#f0f0f0;
   margin:4px; padding:5px 10px;
-  border-radius:8px;
-  display:inline-block;
+  border-radius:8px; display:inline-block;
   border:1px solid black;
-  font-weight:bold;
-  box-shadow:0 0 3px black;
+  font-weight:bold; box-shadow:0 0 3px black;
 }
 
 .stats { display:flex; flex-wrap:wrap; }
@@ -105,10 +126,7 @@ ul li {
 .moves-grid { display:grid; grid-template-columns:repeat(2, 1fr); gap:8px; }
 .moves-grid li { text-align:center; border-radius:10px; }
 
-.section-title {
-  text-shadow:1px 1px 3px rgba(0,0,0,0.25);
-  margin:10px 0 4px;
-}
+.section-title { text-shadow:1px 1px 3px rgba(0,0,0,0.25); margin:10px 0 4px; }
 
 @media(max-width:600px) {
   .pokemon-card { flex-direction:column; }
@@ -202,6 +220,16 @@ async function loadPokemon(name){
       const span=document.createElement('span'); span.textContent=t.toUpperCase(); span.style.backgroundColor=typeColors[t]; typesDiv.appendChild(span);
     });
 
+    // Add dynamic glow behind image and name based on first type
+    const mainType = pokemonTypes[0];
+    const img = document.getElementById('pokemon-img');
+    const nameEl = document.getElementById('pokemon-name');
+    if(mainType){
+      const glowColor = typeColors[mainType];
+      img.style.filter = `drop-shadow(0 0 8px ${glowColor}) drop-shadow(0 0 16px ${glowColor}) drop-shadow(0 0 24px ${glowColor})`;
+      nameEl.style.textShadow = `0 0 6px ${glowColor}, 0 0 12px ${glowColor}, 0 0 18px ${glowColor}`;
+    }
+
     const abilitiesUL=document.getElementById('abilities'); abilitiesUL.innerHTML='';
     pokeData.abilities.forEach(a=>{ const li=document.createElement('li'); li.textContent=formatAbilityName(a.ability.name); abilitiesUL.appendChild(li); });
 
@@ -231,10 +259,8 @@ function renderStats(pokeData){
 }
 
 function estimateStat(statName,base){
-  const IV=31, EV=84, Level=100, nature=1.1; // assume beneficial nature
-  if(statName==='hp'){
-    return Math.floor(((2*base+IV+(EV/4))*Level)/100)+Level+10;
-  }
+  const IV=31, EV=84, Level=100, nature=1.1;
+  if(statName==='hp'){ return Math.floor(((2*base+IV+(EV/4))*Level)/100)+Level+10; }
   return Math.floor(((((2*base+IV+(EV/4))*Level)/100)+5)*nature);
 }
 

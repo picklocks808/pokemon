@@ -1,0 +1,10418 @@
+{
+  "bulbasaur": {
+    "moves": [
+      "Celebrate",
+      "Sludge Bomb",
+      "Giga Drain",
+      "Hidden Power Fire"
+    ]
+  },
+  "ivysaur": {
+    "moves": [
+      "Timid Nature",
+      "Growth",
+      "Sludge Bomb",
+      "Solar Beam / Hidden Power Fire"
+    ]
+  },
+  "venusaur": {
+    "moves": [
+      "Growth",
+      "Sludge Bomb",
+      "Giga Drain",
+      "Hidden Power Fire"
+    ]
+  },
+  "charmander": {
+    "moves": [
+      "Adamant Nature",
+      "Dragon Dance",
+      "Flare Blitz",
+      "Hidden Power Grass / Thunder Punch"
+    ]
+  },
+  "charmeleon": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "charizard": {
+    "moves": [
+      "Dragon Dance",
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw"
+    ]
+  },
+  "squirtle": {
+    "moves": [
+      "Rapid Spin",
+      "Fake Out",
+      "Waterfall",
+      "Aqua Jet"
+    ]
+  },
+  "wartortle": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "blastoise": {
+    "moves": [
+      "Scald",
+      "Toxic",
+      "Rapid Spin",
+      "Refresh"
+    ]
+  },
+  "caterpie": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "metapod": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "butterfree": {
+    "moves": [
+      "Quiver Dance",
+      "Bug Buzz",
+      "Substitute",
+      "Sleep Powder"
+    ]
+  },
+  "weedle": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "kakuna": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "beedrill": {
+    "moves": [
+      "U-turn",
+      "Poison Jab",
+      "Drill Run",
+      "Knock Off"
+    ]
+  },
+  "pidgey": {
+    "moves": [
+      "Brave Bird",
+      "Return",
+      "U-turn",
+      "Defog"
+    ]
+  },
+  "pidgeotto": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pidgeot": {
+    "moves": [
+      "Hurricane",
+      "Heat Wave",
+      "U-turn",
+      "Roost"
+    ]
+  },
+  "rattata": {
+    "moves": [
+      "Double-Edge",
+      "Flame Wheel",
+      "Sucker Punch",
+      "Zen Headbutt"
+    ]
+  },
+  "raticate": {
+    "moves": [
+      "Facade",
+      "Crunch",
+      "Stomping Tantrum",
+      "U-turn"
+    ]
+  },
+  "spearow": {
+    "moves": [
+      "Jolly Nature",
+      "Double-Edge",
+      "Drill Peck",
+      "Drill Run / U-turn"
+    ]
+  },
+  "fearow": {
+    "moves": [
+      "Frustration",
+      "Drill Peck",
+      "Drill Run",
+      "U-turn"
+    ]
+  },
+  "ekans": {
+    "moves": [
+      "Coil",
+      "Gunk Shot",
+      "Earthquake",
+      "Sucker Punch"
+    ]
+  },
+  "arbok": {
+    "moves": [
+      "Coil",
+      "Gunk Shot",
+      "Sucker Punch",
+      "Earthquake"
+    ]
+  },
+  "pikachu": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "raichu": {
+    "moves": [
+      "Nasty Plot",
+      "Thunderbolt",
+      "Focus Blast",
+      "Hidden Power Ice"
+    ]
+  },
+  "sandshrew": {
+    "moves": [
+      "Rapid Spin",
+      "Stealth Rock",
+      "Earthquake",
+      "Knock Off"
+    ]
+  },
+  "sandslash": {
+    "moves": [
+      "Rapid Spin",
+      "Stealth Rock",
+      "Earthquake",
+      "Knock Off"
+    ]
+  },
+  "nidoran-f": {
+    "moves": [
+      "Toxic Spikes",
+      "Super Fang",
+      "Poison Jab",
+      "Thief"
+    ]
+  },
+  "nidorina": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "nidoqueen": {
+    "moves": [
+      "Stealth Rock",
+      "Earth Power",
+      "Sludge Wave",
+      "Toxic"
+    ]
+  },
+  "nidoran-m": {
+    "moves": [
+      "Poison Jab",
+      "Drill Run",
+      "Sucker Punch",
+      "Hone Claws"
+    ]
+  },
+  "nidorino": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "nidoking": {
+    "moves": [
+      "Sludge Wave",
+      "Earth Power",
+      "Ice Beam",
+      "Substitute"
+    ]
+  },
+  "clefairy": {
+    "moves": [
+      "Sassy Nature",
+      "Calm Mind",
+      "Moonblast",
+      "Soft-Boiled / Stealth Rock"
+    ]
+  },
+  "clefable": {
+    "moves": [
+      "Stealth Rock",
+      "Moonblast",
+      "Soft-Boiled",
+      "Thunder Wave"
+    ]
+  },
+  "vulpix": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ninetales": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Solar Beam",
+      "Hidden Power Ice"
+    ]
+  },
+  "jigglypuff": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wigglytuff": {
+    "moves": [
+      "Stealth Rock",
+      "Hyper Voice",
+      "Dazzling Gleam",
+      "Fire Blast"
+    ]
+  },
+  "zubat": {
+    "moves": [
+      "Brave Bird",
+      "U-turn",
+      "Defog",
+      "Pursuit"
+    ]
+  },
+  "golbat": {
+    "moves": [
+      "Brave Bird",
+      "Toxic",
+      "Defog",
+      "Roost"
+    ]
+  },
+  "oddish": {
+    "moves": [
+      "Sleep Powder",
+      "Strength Sap",
+      "Sludge Bomb",
+      "Giga Drain"
+    ]
+  },
+  "gloom": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "vileplume": {
+    "moves": [
+      "Giga Drain",
+      "Sludge Bomb",
+      "Strength Sap",
+      "Sleep Powder"
+    ]
+  },
+  "paras": {
+    "moves": [
+      "Spore",
+      "Knock Off",
+      "Seed Bomb",
+      "Leech Life"
+    ]
+  },
+  "parasect": {
+    "moves": [
+      "Spore",
+      "Leech Life",
+      "Knock Off",
+      "Synthesis"
+    ]
+  },
+  "venonat": {
+    "moves": [
+      "Sleep Powder",
+      "Morning Sun",
+      "Sludge Bomb",
+      "Psychic"
+    ]
+  },
+  "venomoth": {
+    "moves": [
+      "Quiver Dance",
+      "Sleep Powder",
+      "Bug Buzz",
+      "Sludge Bomb"
+    ]
+  },
+  "diglett": {
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Sucker Punch",
+      "Substitute"
+    ]
+  },
+  "dugtrio": {
+    "moves": [
+      "Earthquake",
+      "Stone Edge",
+      "Substitute",
+      "Toxic"
+    ]
+  },
+  "meowth": {
+    "moves": [
+      "Hasty Nature",
+      "Fake Out",
+      "Feint",
+      "Water Pulse / Aerial Ace"
+    ]
+  },
+  "persian": {
+    "moves": [
+      "Nasty Plot",
+      "Hyper Voice",
+      "Hidden Power Ghost",
+      "Water Pulse"
+    ]
+  },
+  "psyduck": {
+    "moves": [
+      "Hydro Pump",
+      "Psychic",
+      "Ice Beam",
+      "Hidden Power Fire"
+    ]
+  },
+  "golduck": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Synchronoise"
+    ]
+  },
+  "mankey": {
+    "moves": [
+      "Close Combat",
+      "Gunk Shot",
+      "U-turn",
+      "Earthquake"
+    ]
+  },
+  "primeape": {
+    "moves": [
+      "Close Combat",
+      "U-turn",
+      "Stone Edge",
+      "Gunk Shot"
+    ]
+  },
+  "growlithe": {
+    "moves": [
+      "Will-O-Wisp",
+      "Morning Sun",
+      "Flare Blitz",
+      "Wild Charge"
+    ]
+  },
+  "arcanine": {
+    "moves": [
+      "Flare Blitz",
+      "Wild Charge",
+      "Extreme Speed",
+      "Morning Sun"
+    ]
+  },
+  "poliwag": {
+    "moves": [
+      "Belly Drum",
+      "Waterfall",
+      "Hypnosis",
+      "Return"
+    ]
+  },
+  "poliwhirl": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "poliwrath": {
+    "moves": [
+      "Scald",
+      "Focus Blast",
+      "Ice Beam",
+      "Protect"
+    ]
+  },
+  "abra": {
+    "moves": [
+      "Psychic",
+      "Dazzling Gleam",
+      "Counter",
+      "Protect"
+    ]
+  },
+  "kadabra": {
+    "moves": [
+      "Psychic",
+      "Dazzling Gleam",
+      "Counter",
+      "Taunt"
+    ]
+  },
+  "alakazam": {
+    "moves": [
+      "Psychic",
+      "Focus Blast",
+      "Shadow Ball",
+      "Recover"
+    ]
+  },
+  "machop": {
+    "moves": [
+      "Dynamic Punch",
+      "Knock Off",
+      "Poison Jab",
+      "Rock Slide"
+    ]
+  },
+  "machoke": {
+    "moves": [
+      "Close Combat",
+      "Knock Off",
+      "Heavy Slam",
+      "Earthquake"
+    ]
+  },
+  "machamp": {
+    "moves": [
+      "Close Combat",
+      "Knock Off",
+      "Facade",
+      "Bullet Punch"
+    ]
+  },
+  "bellsprout": {
+    "moves": [
+      "Solar Beam",
+      "Sludge Bomb",
+      "Weather Ball",
+      "Sleep Powder"
+    ]
+  },
+  "weepinbell": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "victreebel": {
+    "moves": [
+      "Timid Nature",
+      "Strength Sap",
+      "Leaf Storm",
+      "Sludge Bomb / Hidden Power Fire"
+    ]
+  },
+  "tentacool": {
+    "moves": [
+      "Rapid Spin",
+      "Knock Off",
+      "Scald",
+      "Sludge Bomb"
+    ]
+  },
+  "tentacruel": {
+    "moves": [
+      "Scald",
+      "Rapid Spin",
+      "Haze",
+      "Sludge Bomb"
+    ]
+  },
+  "geodude": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Blast",
+      "Earthquake",
+      "Sucker Punch"
+    ]
+  },
+  "graveler": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "golem": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Stone Edge",
+      "Sucker Punch"
+    ]
+  },
+  "ponyta": {
+    "moves": [
+      "Flame Charge",
+      "Flare Blitz",
+      "High Horsepower",
+      "Morning Sun"
+    ]
+  },
+  "rapidash": {
+    "moves": [
+      "Flare Blitz",
+      "Wild Charge",
+      "High Horsepower",
+      "Morning Sun"
+    ]
+  },
+  "slowpoke": {
+    "moves": [
+      "Slack Off",
+      "Scald",
+      "Psychic",
+      "Thunder Wave"
+    ]
+  },
+  "slowbro": {
+    "moves": [
+      "Scald",
+      "Psyshock",
+      "Slack Off",
+      "Ice Beam"
+    ]
+  },
+  "magnemite": {
+    "moves": [
+      "Volt Switch",
+      "Flash Cannon",
+      "Thunderbolt",
+      "Hidden Power Fire"
+    ]
+  },
+  "magneton": {
+    "moves": [
+      "Thunderbolt",
+      "Hidden Power Fire",
+      "Flash Cannon",
+      "Volt Switch"
+    ]
+  },
+  "farfetchd": {
+    "moves": [
+      "First Impression",
+      "Brave Bird",
+      "Leaf Blade",
+      "Knock Off"
+    ]
+  },
+  "doduo": {
+    "moves": [
+      "Brave Bird",
+      "Knock Off",
+      "Jump Kick",
+      "Quick Attack"
+    ]
+  },
+  "dodrio": {
+    "moves": [
+      "Brave Bird",
+      "Jump Kick",
+      "Return",
+      "Knock Off"
+    ]
+  },
+  "seel": {
+    "moves": [
+      "Whirlpool",
+      "Perish Song",
+      "Protect",
+      "Rest"
+    ]
+  },
+  "dewgong": {
+    "moves": [
+      "Whirlpool",
+      "Perish Song",
+      "Rain Dance",
+      "Rest"
+    ]
+  },
+  "grimer": {
+    "moves": [
+      "Gunk Shot",
+      "Fire Punch",
+      "Giga Drain",
+      "Thief"
+    ]
+  },
+  "muk": {
+    "moves": [
+      "Rest",
+      "Sleep Talk",
+      "Curse",
+      "Poison Jab"
+    ]
+  },
+  "shellder": {
+    "moves": [
+      "Shell Smash",
+      "Icicle Spear",
+      "Rock Blast",
+      "Liquidation"
+    ]
+  },
+  "cloyster": {
+    "moves": [
+      "Shell Smash",
+      "Icicle Spear",
+      "Spikes",
+      "Explosion"
+    ]
+  },
+  "gastly": {
+    "moves": [
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Hidden Power Fighting",
+      "Substitute"
+    ]
+  },
+  "haunter": {
+    "moves": [
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Dazzling Gleam",
+      "Destiny Bond"
+    ]
+  },
+  "gengar": {
+    "moves": [
+      "Shadow Ball",
+      "Sludge Wave",
+      "Icy Wind",
+      "Thunder"
+    ]
+  },
+  "onix": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Blast",
+      "Earthquake",
+      "Endure"
+    ]
+  },
+  "drowzee": {
+    "moves": [
+      "Psychic",
+      "Counter",
+      "Wish",
+      "Protect"
+    ]
+  },
+  "hypno": {
+    "moves": [
+      "Hypnosis",
+      "Belly Drum",
+      "Zen Headbutt",
+      "Drain Punch"
+    ]
+  },
+  "krabby": {
+    "moves": [
+      "Liquidation",
+      "Superpower",
+      "Knock Off",
+      "Body Slam"
+    ]
+  },
+  "kingler": {
+    "moves": [
+      "Agility",
+      "Swords Dance",
+      "Liquidation",
+      "Knock Off"
+    ]
+  },
+  "voltorb": {
+    "moves": [
+      "Reflect",
+      "Light Screen",
+      "Volt Switch",
+      "Taunt"
+    ]
+  },
+  "electrode": {
+    "moves": [
+      "Reflect",
+      "Light Screen",
+      "Taunt",
+      "Explosion"
+    ]
+  },
+  "exeggcute": {
+    "moves": [
+      "Substitute",
+      "Sleep Powder",
+      "Giga Drain",
+      "Psychic"
+    ]
+  },
+  "exeggutor": {
+    "moves": [
+      "Quiet Nature",
+      "Trick Room",
+      "Leaf Storm",
+      "Psychic / Hidden Power Fire"
+    ]
+  },
+  "cubone": {
+    "moves": [
+      "Bonemerang",
+      "Knock Off",
+      "Rock Slide",
+      "Fire Punch"
+    ]
+  },
+  "marowak": {
+    "moves": [
+      "Bonemerang",
+      "Stone Edge",
+      "Knock Off",
+      "Stealth Rock"
+    ]
+  },
+  "hitmonlee": {
+    "moves": [
+      "Curse",
+      "Close Combat",
+      "Knock Off",
+      "Stone Edge"
+    ]
+  },
+  "hitmonchan": {
+    "moves": [
+      "Drain Punch",
+      "Mach Punch",
+      "Toxic",
+      "Rapid Spin"
+    ]
+  },
+  "lickitung": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Body Slam",
+      "Knock Off"
+    ]
+  },
+  "koffing": {
+    "moves": [
+      "Will-O-Wisp",
+      "Pain Split",
+      "Sludge Bomb",
+      "Fire Blast"
+    ]
+  },
+  "weezing": {
+    "moves": [
+      "Sludge Bomb",
+      "Will-O-Wisp",
+      "Pain Split",
+      "Toxic Spikes"
+    ]
+  },
+  "rhyhorn": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Blast",
+      "Earthquake",
+      "Megahorn"
+    ]
+  },
+  "rhydon": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Stone Edge",
+      "Swords Dance"
+    ]
+  },
+  "chansey": {
+    "moves": [
+      "Stealth Rock",
+      "Seismic Toss",
+      "Soft-Boiled",
+      "Toxic"
+    ]
+  },
+  "tangela": {
+    "moves": [
+      "Giga Drain",
+      "Hidden Power Fire",
+      "Knock Off",
+      "Leech Seed"
+    ]
+  },
+  "kangaskhan": {
+    "moves": [
+      "Fake Out",
+      "Seismic Toss",
+      "Shadow Claw",
+      "Body Slam"
+    ]
+  },
+  "horsea": {
+    "moves": [
+      "Hydro Pump",
+      "Ice Beam",
+      "Rain Dance",
+      "Hidden Power Grass"
+    ]
+  },
+  "seadra": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "goldeen": {
+    "moves": [
+      "Bounce",
+      "Waterfall",
+      "Drill Run",
+      "Knock Off"
+    ]
+  },
+  "seaking": {
+    "moves": [
+      "Waterfall",
+      "Knock Off",
+      "Drill Run",
+      "Megahorn"
+    ]
+  },
+  "staryu": {
+    "moves": [
+      "Hydro Pump",
+      "Psychic",
+      "Ice Beam",
+      "Thunderbolt"
+    ]
+  },
+  "starmie": {
+    "moves": [
+      "Hydro Pump",
+      "Ice Beam",
+      "Psyshock",
+      "Rapid Spin"
+    ]
+  },
+  "mr-mime": {
+    "moves": [
+      "Nasty Plot",
+      "Dazzling Gleam",
+      "Psychic",
+      "Encore"
+    ]
+  },
+  "scyther": {
+    "moves": [
+      "Swords Dance",
+      "U-turn",
+      "Aerial Ace",
+      "Roost"
+    ]
+  },
+  "jynx": {
+    "moves": [
+      "Lovely Kiss",
+      "Nasty Plot",
+      "Ice Beam",
+      "Psyshock"
+    ]
+  },
+  "electabuzz": {
+    "moves": [
+      "Thunderbolt",
+      "Volt Switch",
+      "Psychic",
+      "Focus Blast"
+    ]
+  },
+  "magmar": {
+    "moves": [
+      "Timid Nature",
+      "Fire Blast",
+      "Psychic",
+      "Focus Blast / Hidden Power Grass"
+    ]
+  },
+  "pinsir": {
+    "moves": [
+      "Swords Dance",
+      "X-Scissor",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "tauros": {
+    "moves": [
+      "Body Slam",
+      "Fire Blast",
+      "Work Up",
+      "Earthquake"
+    ]
+  },
+  "magikarp": {
+    "moves": [
+      "Splash",
+      "Flail",
+      "Tackle",
+      "Bounce"
+    ]
+  },
+  "gyarados": {
+    "moves": [
+      "Dragon Dance",
+      "Substitute",
+      "Crunch",
+      "Earthquake"
+    ]
+  },
+  "lapras": {
+    "moves": [
+      "Freeze-Dry",
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Fire"
+    ]
+  },
+  "ditto": {
+    "moves": [
+      "Relaxed Nature",
+      "Transform",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "eevee": {
+    "moves": [
+      "Last Resort",
+      "Baton Pass",
+      "Substitute",
+      "Stored Power"
+    ]
+  },
+  "vaporeon": {
+    "moves": [
+      "Scald",
+      "Toxic",
+      "Wish",
+      "Protect"
+    ]
+  },
+  "jolteon": {
+    "moves": [
+      "Yawn",
+      "Volt Switch",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  },
+  "flareon": {
+    "moves": [
+      "Flare Blitz",
+      "Superpower",
+      "Return",
+      "Quick Attack"
+    ]
+  },
+  "porygon": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "omanyte": {
+    "moves": [
+      "Shell Smash",
+      "Hydro Pump",
+      "Ice Beam",
+      "Earth Power"
+    ]
+  },
+  "omastar": {
+    "moves": [
+      "Shell Smash",
+      "Hydro Pump",
+      "Ice Beam",
+      "Earth Power"
+    ]
+  },
+  "kabuto": {
+    "moves": [
+      "Rapid Spin",
+      "Stealth Rock",
+      "Knock Off",
+      "Rock Slide"
+    ]
+  },
+  "kabutops": {
+    "moves": [
+      "Liquidation",
+      "Stone Edge",
+      "Knock Off",
+      "Rapid Spin"
+    ]
+  },
+  "aerodactyl": {
+    "moves": [
+      "Stone Edge",
+      "Earthquake",
+      "Pursuit",
+      "Roost"
+    ]
+  },
+  "snorlax": {
+    "moves": [
+      "Curse",
+      "Frustration",
+      "Rest",
+      "Earthquake"
+    ]
+  },
+  "articuno": {
+    "moves": [
+      "Timid Nature",
+      "Hurricane",
+      "Freeze-Dry",
+      "Hidden Power Fighting / Roost"
+    ]
+  },
+  "zapdos": {
+    "moves": [
+      "Volt Switch",
+      "Heat Wave",
+      "Hidden Power Ice",
+      "Roost"
+    ]
+  },
+  "moltres": {
+    "moves": [
+      "Hurricane",
+      "Fire Blast",
+      "Roost",
+      "U-turn"
+    ]
+  },
+  "dratini": {
+    "moves": [
+      "Rash Nature",
+      "Draco Meteor",
+      "Extreme Speed",
+      "Iron Tail / Fire Blast"
+    ]
+  },
+  "dragonair": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dragonite": {
+    "moves": [
+      "Dragon Dance",
+      "Fly",
+      "Earthquake",
+      "Extreme Speed"
+    ]
+  },
+  "mewtwo": {
+    "moves": [
+      "Psystrike",
+      "Ice Beam",
+      "Fire Blast",
+      "Calm Mind"
+    ]
+  },
+  "mew": {
+    "moves": [
+      "Seismic Toss",
+      "Taunt",
+      "Will-O-Wisp",
+      "Soft-Boiled"
+    ]
+  },
+  "chikorita": {
+    "moves": [
+      "Giga Drain",
+      "Hidden Power Fire",
+      "Synthesis",
+      "Aromatherapy"
+    ]
+  },
+  "bayleef": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "meganium": {
+    "moves": [
+      "Aromatherapy",
+      "Giga Drain",
+      "Synthesis",
+      "Dragon Tail"
+    ]
+  },
+  "cyndaquil": {
+    "moves": [
+      "Eruption",
+      "Hidden Power Grass",
+      "Fire Blast",
+      "Extrasensory"
+    ]
+  },
+  "quilava": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "typhlosion": {
+    "moves": [
+      "Eruption",
+      "Flamethrower",
+      "Focus Blast",
+      "Hidden Power Grass"
+    ]
+  },
+  "totodile": {
+    "moves": [
+      "Dragon Dance",
+      "Waterfall",
+      "Ice Punch",
+      "Superpower"
+    ]
+  },
+  "croconaw": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "feraligatr": {
+    "moves": [
+      "Dragon Dance",
+      "Liquidation",
+      "Ice Punch",
+      "Crunch"
+    ]
+  },
+  "sentret": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "furret": {
+    "moves": [
+      "Trick",
+      "Double-Edge",
+      "U-turn",
+      "Knock Off"
+    ]
+  },
+  "hoothoot": {
+    "moves": [
+      "Hypnosis",
+      "Roost",
+      "Air Slash",
+      "Reflect"
+    ]
+  },
+  "noctowl": {
+    "moves": [
+      "Agility",
+      "Work Up",
+      "Hurricane",
+      "Roost"
+    ]
+  },
+  "ledyba": {
+    "moves": [
+      "Swords Dance",
+      "Acrobatics",
+      "Knock Off",
+      "Drain Punch"
+    ]
+  },
+  "ledian": {
+    "moves": [
+      "Power-Up Punch",
+      "Drain Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "spinarak": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ariados": {
+    "moves": [
+      "Sticky Web",
+      "Toxic Spikes",
+      "Megahorn",
+      "Toxic Thread"
+    ]
+  },
+  "crobat": {
+    "moves": [
+      "Brave Bird",
+      "Super Fang",
+      "Taunt",
+      "Roost"
+    ]
+  },
+  "chinchou": {
+    "moves": [
+      "Scald",
+      "Volt Switch",
+      "Ice Beam",
+      "Thunder Wave"
+    ]
+  },
+  "lanturn": {
+    "moves": [
+      "Calm Nature",
+      "Volt Switch",
+      "Scald",
+      "Toxic / Heal Bell"
+    ]
+  },
+  "pichu": {
+    "moves": [
+      "Fake Out",
+      "Volt Tackle",
+      "Volt Switch",
+      "Encore"
+    ]
+  },
+  "cleffa": {
+    "moves": [
+      "Hasty Nature",
+      "Counter",
+      "Endeavor",
+      "Thunder Wave / Encore"
+    ]
+  },
+  "igglybuff": {
+    "moves": [
+      "Calm Nature",
+      "Wish",
+      "Protect",
+      "Hyper Voice / Fire Blast"
+    ]
+  },
+  "togepi": {
+    "moves": [
+      "Dazzling Gleam",
+      "Fire Blast",
+      "Morning Sun",
+      "Nasty Plot"
+    ]
+  },
+  "togetic": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "natu": {
+    "moves": [
+      "Naive Nature",
+      "Psychic",
+      "Heat Wave",
+      "U-turn / Roost"
+    ]
+  },
+  "xatu": {
+    "moves": [
+      "Night Shade",
+      "Roost",
+      "U-turn",
+      "Toxic"
+    ]
+  },
+  "mareep": {
+    "moves": [
+      "Reflect",
+      "Light Screen",
+      "Heal Bell",
+      "Thunderbolt"
+    ]
+  },
+  "flaaffy": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ampharos": {
+    "moves": [
+      "Thunderbolt",
+      "Focus Blast",
+      "Hidden Power Ice",
+      "Heal Bell"
+    ]
+  },
+  "bellossom": {
+    "moves": [
+      "Quiver Dance",
+      "Giga Drain",
+      "Strength Sap",
+      "Safeguard"
+    ]
+  },
+  "marill": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "azumarill": {
+    "moves": [
+      "Belly Drum",
+      "Aqua Jet",
+      "Play Rough",
+      "Knock Off"
+    ]
+  },
+  "sudowoodo": {
+    "moves": [
+      "Head Smash",
+      "Earthquake",
+      "Sucker Punch",
+      "Wood Hammer"
+    ]
+  },
+  "politoed": {
+    "moves": [
+      "Protect",
+      "Scald",
+      "Toxic",
+      "Rest"
+    ]
+  },
+  "hoppip": {
+    "moves": [
+      "Strength Sap",
+      "Sleep Powder",
+      "Bullet Seed",
+      "U-turn"
+    ]
+  },
+  "skiploom": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "jumpluff": {
+    "moves": [
+      "U-turn",
+      "Acrobatics",
+      "Strength Sap",
+      "Sleep Powder"
+    ]
+  },
+  "aipom": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sunkern": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sunflora": {
+    "moves": [
+      "Solar Beam",
+      "Earth Power",
+      "Sludge Bomb",
+      "Giga Drain"
+    ]
+  },
+  "yanma": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wooper": {
+    "moves": [
+      "Scald",
+      "Recover",
+      "Earthquake",
+      "Yawn"
+    ]
+  },
+  "quagsire": {
+    "moves": [
+      "Scald",
+      "Earthquake",
+      "Recover",
+      "Toxic"
+    ]
+  },
+  "espeon": {
+    "moves": [
+      "Calm Mind",
+      "Psychic",
+      "Shadow Ball",
+      "Morning Sun"
+    ]
+  },
+  "umbreon": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Heal Bell",
+      "Foul Play"
+    ]
+  },
+  "murkrow": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "slowking": {
+    "moves": [
+      "Scald",
+      "Future Sight",
+      "Fire Blast",
+      "Dragon Tail"
+    ]
+  },
+  "misdreavus": {
+    "moves": [
+      "Foul Play",
+      "Will-O-Wisp",
+      "Taunt",
+      "Pain Split"
+    ]
+  },
+  "unown": {
+    "moves": [
+      "Hidden Power Psychic",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wobbuffet": {
+    "moves": [
+      "Encore",
+      "Counter",
+      "Mirror Coat",
+      "Destiny Bond"
+    ]
+  },
+  "girafarig": {
+    "moves": [
+      "Return",
+      "Psychic Fangs",
+      "Earthquake",
+      "Trick"
+    ]
+  },
+  "pineco": {
+    "moves": [
+      "Stealth Rock",
+      "Spikes",
+      "Rapid Spin",
+      "Explosion"
+    ]
+  },
+  "forretress": {
+    "moves": [
+      "Relaxed Nature",
+      "Gyro Ball",
+      "Spikes",
+      "Volt Switch / Rapid Spin"
+    ]
+  },
+  "dunsparce": {
+    "moves": [
+      "Glare",
+      "Headbutt",
+      "Roost",
+      "Coil"
+    ]
+  },
+  "gligar": {
+    "moves": [
+      "Earthquake",
+      "Roost",
+      "Defog",
+      "U-turn"
+    ]
+  },
+  "steelix": {
+    "moves": [
+      "Brave Nature",
+      "Stealth Rock",
+      "Gyro Ball",
+      "Earthquake / Curse"
+    ]
+  },
+  "snubbull": {
+    "moves": [
+      "Play Rough",
+      "Fire Punch",
+      "Thief",
+      "Earthquake"
+    ]
+  },
+  "granbull": {
+    "moves": [
+      "Play Rough",
+      "Earthquake",
+      "Fire Punch",
+      "Close Combat"
+    ]
+  },
+  "qwilfish": {
+    "moves": [
+      "Spikes",
+      "Scald",
+      "Taunt",
+      "Destiny Bond"
+    ]
+  },
+  "scizor": {
+    "moves": [
+      "Swords Dance",
+      "Bullet Punch",
+      "Roost",
+      "Knock Off"
+    ]
+  },
+  "shuckle": {
+    "moves": [
+      "Calm Nature",
+      "Sticky Web",
+      "Stealth Rock",
+      "Encore / Infestation"
+    ]
+  },
+  "heracross": {
+    "moves": [
+      "Swords Dance",
+      "Close Combat",
+      "Rock Blast",
+      "Pin Missile"
+    ]
+  },
+  "sneasel": {
+    "moves": [
+      "Knock Off",
+      "Icicle Crash",
+      "Ice Shard",
+      "Pursuit"
+    ]
+  },
+  "teddiursa": {
+    "moves": [
+      "Facade",
+      "Crunch",
+      "Close Combat",
+      "Protect"
+    ]
+  },
+  "ursaring": {
+    "moves": [
+      "Brave Nature",
+      "Swords Dance",
+      "Facade",
+      "Crunch / Close Combat"
+    ]
+  },
+  "slugma": {
+    "moves": [
+      "Lava Plume",
+      "Clear Smog",
+      "Memento",
+      "Will-O-Wisp"
+    ]
+  },
+  "magcargo": {
+    "moves": [
+      "Stealth Rock",
+      "Recover",
+      "Toxic",
+      "Lava Plume"
+    ]
+  },
+  "swinub": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Ice Shard",
+      "Endeavor"
+    ]
+  },
+  "piloswine": {
+    "moves": [
+      "Stealth Rock",
+      "Icicle Crash",
+      "Earthquake",
+      "Ice Shard"
+    ]
+  },
+  "corsola": {
+    "moves": [
+      "Scald",
+      "Toxic",
+      "Stealth Rock",
+      "Recover"
+    ]
+  },
+  "remoraid": {
+    "moves": [
+      "Water Spout",
+      "Hydro Pump",
+      "Fire Blast",
+      "Bullet Seed"
+    ]
+  },
+  "octillery": {
+    "moves": [
+      "Quiet Nature",
+      "Hydro Pump",
+      "Fire Blast",
+      "Ice Beam / Energy Ball"
+    ]
+  },
+  "delibird": {
+    "moves": [
+      "Spikes",
+      "Rapid Spin",
+      "Icy Wind",
+      "Destiny Bond"
+    ]
+  },
+  "mantine": {
+    "moves": [
+      "Roost",
+      "Defog",
+      "Scald",
+      "Air Slash"
+    ]
+  },
+  "skarmory": {
+    "moves": [
+      "Roost",
+      "Spikes",
+      "Whirlwind",
+      "Counter"
+    ]
+  },
+  "houndour": {
+    "moves": [
+      "Naive Nature",
+      "Fire Blast",
+      "Dark Pulse",
+      "Sucker Punch / Flame Charge"
+    ]
+  },
+  "houndoom": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Dark Pulse",
+      "Sludge Bomb"
+    ]
+  },
+  "kingdra": {
+    "moves": [
+      "Hydro Pump",
+      "Surf",
+      "Draco Meteor",
+      "Ice Beam"
+    ]
+  },
+  "phanpy": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Knock Off",
+      "Ice Shard"
+    ]
+  },
+  "donphan": {
+    "moves": [
+      "Rapid Spin",
+      "Earthquake",
+      "Knock Off",
+      "Ice Shard"
+    ]
+  },
+  "porygon2": {
+    "moves": [
+      "Recover",
+      "Ice Beam",
+      "Foul Play",
+      "Toxic"
+    ]
+  },
+  "stantler": {
+    "moves": [
+      "Double-Edge",
+      "Sucker Punch",
+      "Jump Kick",
+      "Signal Beam"
+    ]
+  },
+  "smeargle": {
+    "moves": [
+      "Sticky Web",
+      "Nuzzle",
+      "Taunt",
+      "Whirlwind"
+    ]
+  },
+  "tyrogue": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "hitmontop": {
+    "moves": [
+      "Rapid Spin",
+      "Foresight",
+      "Close Combat",
+      "Toxic"
+    ]
+  },
+  "smoochum": {
+    "moves": [
+      "Blizzard",
+      "Psychic",
+      "Hidden Power Fighting",
+      "Substitute"
+    ]
+  },
+  "elekid": {
+    "moves": [
+      "Timid Nature",
+      "Volt Switch",
+      "Thunderbolt",
+      "Psychic / Hidden Power Grass"
+    ]
+  },
+  "magby": {
+    "moves": [
+      "Jolly Nature",
+      "Belly Drum",
+      "Fire Punch",
+      "Mach Punch / Return"
+    ]
+  },
+  "miltank": {
+    "moves": [
+      "Stealth Rock",
+      "Seismic Toss",
+      "Milk Drink",
+      "Toxic"
+    ]
+  },
+  "blissey": {
+    "moves": [
+      "Seismic Toss",
+      "Toxic",
+      "Soft-Boiled",
+      "Heal Bell"
+    ]
+  },
+  "raikou": {
+    "moves": [
+      "Substitute",
+      "Calm Mind",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  },
+  "entei": {
+    "moves": [
+      "Sacred Fire",
+      "Extreme Speed",
+      "Stone Edge",
+      "Flare Blitz"
+    ]
+  },
+  "suicune": {
+    "moves": [
+      "Calm Mind",
+      "Protect",
+      "Scald",
+      "Substitute"
+    ]
+  },
+  "larvitar": {
+    "moves": [
+      "Dragon Dance",
+      "Earthquake",
+      "Rock Slide",
+      "Superpower"
+    ]
+  },
+  "pupitar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tyranitar": {
+    "moves": [
+      "Stealth Rock",
+      "Stone Edge",
+      "Pursuit",
+      "Fire Punch"
+    ]
+  },
+  "lugia": {
+    "moves": [
+      "Roost",
+      "Toxic",
+      "Whirlwind",
+      "Psychic"
+    ]
+  },
+  "ho-oh": {
+    "moves": [
+      "Sacred Fire",
+      "Recover",
+      "Toxic",
+      "Defog"
+    ]
+  },
+  "celebi": {
+    "moves": [
+      "Nasty Plot",
+      "Psychic",
+      "Giga Drain",
+      "Dazzling Gleam"
+    ]
+  },
+  "treecko": {
+    "moves": [
+      "Swords Dance",
+      "Bullet Seed",
+      "Drain Punch",
+      "Acrobatics"
+    ]
+  },
+  "grovyle": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sceptile": {
+    "moves": [
+      "Leaf Storm",
+      "Giga Drain",
+      "Focus Blast",
+      "Hidden Power Ice"
+    ]
+  },
+  "torchic": {
+    "moves": [
+      "Modest Nature",
+      "Protect",
+      "Fire Blast",
+      "Hidden Power Grass / Substitute"
+    ]
+  },
+  "combusken": {
+    "moves": [
+      "Fire Blast",
+      "Focus Blast",
+      "Hidden Power Ice",
+      "Protect"
+    ]
+  },
+  "blaziken": {
+    "moves": [
+      "Swords Dance",
+      "Flare Blitz",
+      "Low Kick",
+      "Stone Edge"
+    ]
+  },
+  "mudkip": {
+    "moves": [
+      "Waterfall",
+      "Ice Beam",
+      "Superpower",
+      "Double-Edge"
+    ]
+  },
+  "marshtomp": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "swampert": {
+    "moves": [
+      "Waterfall",
+      "Earthquake",
+      "Ice Punch",
+      "Stealth Rock"
+    ]
+  },
+  "poochyena": {
+    "moves": [
+      "Howl",
+      "Crunch",
+      "Play Rough",
+      "Fire Fang"
+    ]
+  },
+  "mightyena": {
+    "moves": [
+      "Crunch",
+      "Sucker Punch",
+      "Play Rough",
+      "Iron Tail"
+    ]
+  },
+  "zigzagoon": {
+    "moves": [
+      "Belly Drum",
+      "Extreme Speed",
+      "Thief",
+      "Seed Bomb"
+    ]
+  },
+  "linoone": {
+    "moves": [
+      "Belly Drum",
+      "Extreme Speed",
+      "Stomping Tantrum",
+      "Seed Bomb"
+    ]
+  },
+  "wurmple": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "silcoon": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "beautifly": {
+    "moves": [
+      "Quiver Dance",
+      "Bug Buzz",
+      "Hidden Power Fighting",
+      "Roost"
+    ]
+  },
+  "cascoon": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dustox": {
+    "moves": [
+      "Bold Nature",
+      "Quiver Dance",
+      "Iron Defense",
+      "Bug Buzz / Roost"
+    ]
+  },
+  "lotad": {
+    "moves": [
+      "Modest Nature",
+      "Surf",
+      "Giga Drain",
+      "Ice Beam / Rain Dance"
+    ]
+  },
+  "lombre": {
+    "moves": [
+      "Modest Nature",
+      "Hydro Pump",
+      "Hidden Power Grass",
+      "Ice Beam / Rain Dance"
+    ]
+  },
+  "ludicolo": {
+    "moves": [
+      "Modest Nature",
+      "Rain Dance",
+      "Hydro Pump",
+      "Giga Drain / Ice Beam"
+    ]
+  },
+  "seedot": {
+    "moves": [
+      "Rash Nature",
+      "Growth",
+      "Solar Beam",
+      "Hidden Power Fire / Explosion"
+    ]
+  },
+  "nuzleaf": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "shiftry": {
+    "moves": [
+      "Knock Off",
+      "Sucker Punch",
+      "Leaf Storm",
+      "Defog"
+    ]
+  },
+  "taillow": {
+    "moves": [
+      "Naive Nature",
+      "Boomburst",
+      "Heat Wave",
+      "Hidden Power Grass / Brave Bird"
+    ]
+  },
+  "swellow": {
+    "moves": [
+      "Boomburst",
+      "U-turn",
+      "Heat Wave",
+      "Air Slash"
+    ]
+  },
+  "wingull": {
+    "moves": [
+      "Tera Type: Dark",
+      "Timid Nature",
+      "Surf",
+      "Hurricane / Ice Beam / Protect"
+    ]
+  },
+  "pelipper": {
+    "moves": [
+      "Relaxed Nature",
+      "Scald",
+      "U-turn",
+      "Roost / Defog"
+    ]
+  },
+  "ralts": {
+    "moves": [
+      "Psychic",
+      "Dazzling Gleam",
+      "Thunderbolt",
+      "Memento"
+    ]
+  },
+  "kirlia": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "gardevoir": {
+    "moves": [
+      "Psyshock",
+      "Moonblast",
+      "Will-O-Wisp",
+      "Healing Wish"
+    ]
+  },
+  "surskit": {
+    "moves": [
+      "Modest Nature",
+      "Hydro Pump",
+      "Hidden Power Electric",
+      "Psybeam / Signal Beam"
+    ]
+  },
+  "masquerain": {
+    "moves": [
+      "Sticky Web",
+      "Bug Buzz",
+      "Hydro Pump",
+      "Quiver Dance"
+    ]
+  },
+  "shroomish": {
+    "moves": [
+      "Spore",
+      "Bullet Seed",
+      "Drain Punch",
+      "Synthesis"
+    ]
+  },
+  "breloom": {
+    "moves": [
+      "Spore",
+      "Mach Punch",
+      "Bullet Seed",
+      "Swords Dance"
+    ]
+  },
+  "slakoth": {
+    "moves": [
+      "Return",
+      "Pursuit",
+      "Ice Punch",
+      "Hammer Arm"
+    ]
+  },
+  "vigoroth": {
+    "moves": [
+      "Bulk Up",
+      "Facade",
+      "Slack Off",
+      "Taunt"
+    ]
+  },
+  "slaking": {
+    "moves": [
+      "Return",
+      "Pursuit",
+      "Earthquake",
+      "Fire Blast"
+    ]
+  },
+  "nincada": {
+    "moves": [
+      "Final Gambit",
+      "Leech Life",
+      "Giga Drain",
+      "Toxic"
+    ]
+  },
+  "ninjask": {
+    "moves": [
+      "Leech Life",
+      "U-turn",
+      "Aerial Ace",
+      "Night Slash"
+    ]
+  },
+  "shedinja": {
+    "moves": [
+      "Lonely Nature",
+      "Will-O-Wisp",
+      "Toxic",
+      "Protect / Shadow Sneak"
+    ]
+  },
+  "whismur": {
+    "moves": [
+      "Hyper Voice",
+      "Shadow Ball",
+      "Ice Beam",
+      "Fire Blast"
+    ]
+  },
+  "loudred": {
+    "moves": [
+      "Return",
+      "Shadow Ball",
+      "Earthquake",
+      "Fire Blast"
+    ]
+  },
+  "exploud": {
+    "moves": [
+      "Boomburst",
+      "Focus Blast",
+      "Fire Blast",
+      "Surf"
+    ]
+  },
+  "makuhita": {
+    "moves": [
+      "Belly Drum",
+      "Close Combat",
+      "Knock Off",
+      "Bullet Punch"
+    ]
+  },
+  "hariyama": {
+    "moves": [
+      "Close Combat",
+      "Knock Off",
+      "Heavy Slam",
+      "Stone Edge"
+    ]
+  },
+  "azurill": {
+    "moves": [
+      "Brave Nature",
+      "Double-Edge",
+      "Knock Off",
+      "Waterfall / Return"
+    ]
+  },
+  "nosepass": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Blast",
+      "Thunder Wave",
+      "Volt Switch"
+    ]
+  },
+  "skitty": {
+    "moves": [
+      "Fake Out",
+      "Sucker Punch",
+      "Double-Edge",
+      "Thunder Wave"
+    ]
+  },
+  "delcatty": {
+    "moves": [
+      "Fake Out",
+      "Sucker Punch",
+      "Return",
+      "Thunder Wave"
+    ]
+  },
+  "sableye": {
+    "moves": [
+      "Knock Off",
+      "Will-O-Wisp",
+      "Recover",
+      "Protect"
+    ]
+  },
+  "mawile": {
+    "moves": [
+      "Swords Dance",
+      "Play Rough",
+      "Sucker Punch",
+      "Knock Off"
+    ]
+  },
+  "aron": {
+    "moves": [
+      "Rock Polish",
+      "Head Smash",
+      "Heavy Slam",
+      "Earthquake"
+    ]
+  },
+  "lairon": {
+    "moves": [
+      "Hidden Power Rock",
+      "Toxic",
+      "Roar",
+      "Protect"
+    ]
+  },
+  "aggron": {
+    "moves": [
+      "Stealth Rock",
+      "Heavy Slam",
+      "Earthquake",
+      "Toxic"
+    ]
+  },
+  "meditite": {
+    "moves": [
+      "Close Combat",
+      "Zen Headbutt",
+      "Ice Punch",
+      "Trick"
+    ]
+  },
+  "medicham": {
+    "moves": [
+      "Fake Out",
+      "High Jump Kick",
+      "Ice Punch",
+      "Zen Headbutt"
+    ]
+  },
+  "electrike": {
+    "moves": [
+      "Timid Nature",
+      "Volt Switch",
+      "Thunderbolt",
+      "Flamethrower / Switcheroo"
+    ]
+  },
+  "manectric": {
+    "moves": [
+      "Volt Switch",
+      "Overheat",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  },
+  "plusle": {
+    "moves": [
+      "Nasty Plot",
+      "Thunderbolt",
+      "Hidden Power Ice",
+      "Substitute"
+    ]
+  },
+  "minun": {
+    "moves": [
+      "Nasty Plot",
+      "Thunderbolt",
+      "Hidden Power Ice",
+      "Substitute"
+    ]
+  },
+  "volbeat": {
+    "moves": [
+      "Sunny Day",
+      "U-turn",
+      "Thunder Wave",
+      "Roost"
+    ]
+  },
+  "illumise": {
+    "moves": [
+      "Relaxed Nature",
+      "Sunny Day",
+      "U-turn",
+      "Thunder Wave / Encore"
+    ]
+  },
+  "roselia": {
+    "moves": [
+      "Spikes",
+      "Synthesis",
+      "Sludge Bomb",
+      "Giga Drain"
+    ]
+  },
+  "gulpin": {
+    "moves": [
+      "Sludge Bomb",
+      "Ice Beam",
+      "Shadow Ball",
+      "Pain Split"
+    ]
+  },
+  "swalot": {
+    "moves": [
+      "Sludge Bomb",
+      "Giga Drain",
+      "Ice Beam",
+      "Earthquake"
+    ]
+  },
+  "carvanha": {
+    "moves": [
+      "Adamant Nature",
+      "Waterfall",
+      "Crunch",
+      "Psychic Fangs / Protect"
+    ]
+  },
+  "sharpedo": {
+    "moves": [
+      "Crunch",
+      "Ice Fang",
+      "Earthquake",
+      "Protect"
+    ]
+  },
+  "wailmer": {
+    "moves": [
+      "Water Spout",
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Fire"
+    ]
+  },
+  "wailord": {
+    "moves": [
+      "Substitute",
+      "Aqua Ring",
+      "Protect",
+      "Block"
+    ]
+  },
+  "numel": {
+    "moves": [
+      "Flame Charge",
+      "Fire Blast",
+      "Earth Power",
+      "Growth"
+    ]
+  },
+  "camerupt": {
+    "moves": [
+      "Eruption",
+      "Fire Blast",
+      "Earth Power",
+      "Hidden Power Ice"
+    ]
+  },
+  "torkoal": {
+    "moves": [
+      "Stealth Rock",
+      "Rapid Spin",
+      "Lava Plume",
+      "Yawn"
+    ]
+  },
+  "spoink": {
+    "moves": [
+      "Calm Mind",
+      "Psychic",
+      "Power Gem",
+      "Hidden Power Fighting"
+    ]
+  },
+  "grumpig": {
+    "moves": [
+      "Psychic",
+      "Focus Blast",
+      "Shadow Ball",
+      "Calm Mind"
+    ]
+  },
+  "spinda": {
+    "moves": [
+      "Brave Nature",
+      "Trick Room",
+      "Superpower",
+      "Return / Sucker Punch"
+    ]
+  },
+  "trapinch": {
+    "moves": [
+      "Impish Nature",
+      "Earthquake",
+      "Stone Edge",
+      "Feint / First Impression"
+    ]
+  },
+  "vibrava": {
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Hidden Power Ghost",
+      "Quick Attack"
+    ]
+  },
+  "flygon": {
+    "moves": [
+      "U-turn",
+      "Earthquake",
+      "Outrage",
+      "Aerial Ace"
+    ]
+  },
+  "cacnea": {
+    "moves": [
+      "Swords Dance",
+      "Sucker Punch",
+      "Seed Bomb",
+      "Drain Punch"
+    ]
+  },
+  "cacturne": {
+    "moves": [
+      "Spikes",
+      "Giga Drain",
+      "Dark Pulse",
+      "Sucker Punch"
+    ]
+  },
+  "swablu": {
+    "moves": [
+      "Roost",
+      "Pluck",
+      "Protect",
+      "Toxic"
+    ]
+  },
+  "altaria": {
+    "moves": [
+      "Dragon Dance",
+      "Return",
+      "Earthquake",
+      "Roost"
+    ]
+  },
+  "zangoose": {
+    "moves": [
+      "Facade",
+      "Knock Off",
+      "Close Combat",
+      "Quick Attack"
+    ]
+  },
+  "seviper": {
+    "moves": [
+      "Sludge Wave",
+      "Giga Drain",
+      "Earthquake",
+      "Sucker Punch"
+    ]
+  },
+  "lunatone": {
+    "moves": [
+      "Psychic",
+      "Power Gem",
+      "Earth Power",
+      "Rock Polish"
+    ]
+  },
+  "solrock": {
+    "moves": [
+      "Stealth Rock",
+      "Stone Edge",
+      "Will-O-Wisp",
+      "Morning Sun"
+    ]
+  },
+  "barboach": {
+    "moves": [
+      "Dragon Dance",
+      "Earthquake",
+      "Waterfall",
+      "Bounce"
+    ]
+  },
+  "whiscash": {
+    "moves": [
+      "Dragon Dance",
+      "Waterfall",
+      "Earthquake",
+      "Bounce"
+    ]
+  },
+  "corphish": {
+    "moves": [
+      "Crabhammer",
+      "Aqua Jet",
+      "Knock Off",
+      "Swords Dance"
+    ]
+  },
+  "crawdaunt": {
+    "moves": [
+      "Swords Dance",
+      "Crabhammer",
+      "Knock Off",
+      "Aqua Jet"
+    ]
+  },
+  "baltoy": {
+    "moves": [
+      "Rapid Spin",
+      "Stealth Rock",
+      "Earth Power",
+      "Psychic"
+    ]
+  },
+  "claydol": {
+    "moves": [
+      "Rapid Spin",
+      "Toxic",
+      "Psychic",
+      "Earth Power"
+    ]
+  },
+  "lileep": {
+    "moves": [
+      "Recover",
+      "Giga Drain",
+      "Stealth Rock",
+      "Ancient Power"
+    ]
+  },
+  "cradily": {
+    "moves": [
+      "Giga Drain",
+      "Toxic",
+      "Stealth Rock",
+      "Recover"
+    ]
+  },
+  "anorith": {
+    "moves": [
+      "Stealth Rock",
+      "Rapid Spin",
+      "Knock Off",
+      "Rock Blast"
+    ]
+  },
+  "armaldo": {
+    "moves": [
+      "Stone Edge",
+      "Knock Off",
+      "Stealth Rock",
+      "Rapid Spin"
+    ]
+  },
+  "feebas": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "milotic": {
+    "moves": [
+      "Scald",
+      "Recover",
+      "Toxic",
+      "Refresh"
+    ]
+  },
+  "castform": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Thunder"
+    ]
+  },
+  "kecleon": {
+    "moves": [
+      "Knock Off",
+      "Drain Punch",
+      "Shadow Sneak",
+      "Ice Beam"
+    ]
+  },
+  "shuppet": {
+    "moves": [
+      "Brave Nature",
+      "Trick Room",
+      "Knock Off",
+      "Shadow Sneak / Destiny Bond"
+    ]
+  },
+  "banette": {
+    "moves": [
+      "Shadow Claw",
+      "Knock Off",
+      "Will-O-Wisp",
+      "Sucker Punch"
+    ]
+  },
+  "duskull": {
+    "moves": [
+      "Pain Split",
+      "Will-O-Wisp",
+      "Substitute",
+      "Shadow Sneak"
+    ]
+  },
+  "dusclops": {
+    "moves": [
+      "Rest",
+      "Sleep Talk",
+      "Toxic",
+      "Seismic Toss"
+    ]
+  },
+  "tropius": {
+    "moves": [
+      "Leech Seed",
+      "Substitute",
+      "Air Slash",
+      "Protect"
+    ]
+  },
+  "chimecho": {
+    "moves": [
+      "Relaxed Nature",
+      "Trick Room",
+      "Taunt",
+      "Psyshock / Healing Wish"
+    ]
+  },
+  "absol": {
+    "moves": [
+      "Knock Off",
+      "Sucker Punch",
+      "Superpower",
+      "Pursuit"
+    ]
+  },
+  "wynaut": {
+    "moves": [
+      "Counter",
+      "Mirror Coat",
+      "Encore",
+      "Tickle"
+    ]
+  },
+  "snorunt": {
+    "moves": [
+      "Modest Nature",
+      "Spikes",
+      "Frost Breath",
+      "Shadow Ball / Hidden Power Fighting"
+    ]
+  },
+  "glalie": {
+    "moves": [
+      "Spikes",
+      "Double-Edge",
+      "Earthquake",
+      "Explosion"
+    ]
+  },
+  "spheal": {
+    "moves": [
+      "Modest Nature",
+      "Yawn",
+      "Ice Beam",
+      "Surf / Hidden Power Grass"
+    ]
+  },
+  "sealeo": {
+    "moves": [
+      "Timid Nature",
+      "Surf",
+      "Ice Beam",
+      "Hidden Power Grass / Substitute"
+    ]
+  },
+  "walrein": {
+    "moves": [
+      "Roar",
+      "Toxic",
+      "Surf",
+      "Protect"
+    ]
+  },
+  "clamperl": {
+    "moves": [
+      "Shell Smash",
+      "Surf",
+      "Ice Beam",
+      "Hidden Power Grass"
+    ]
+  },
+  "huntail": {
+    "moves": [
+      "Shell Smash",
+      "Waterfall",
+      "Ice Beam",
+      "Sucker Punch"
+    ]
+  },
+  "gorebyss": {
+    "moves": [
+      "Shell Smash",
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Grass"
+    ]
+  },
+  "relicanth": {
+    "moves": [
+      "Head Smash",
+      "Waterfall",
+      "Earthquake",
+      "Zen Headbutt"
+    ]
+  },
+  "luvdisc": {
+    "moves": [
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Grass",
+      "Rain Dance"
+    ]
+  },
+  "bagon": {
+    "moves": [
+      "Adamant Nature",
+      "Dragon Dance",
+      "Outrage",
+      "Zen Headbutt / Fire Fang"
+    ]
+  },
+  "shelgon": {
+    "moves": [
+      "Dragon Dance",
+      "Double-Edge",
+      "Rock Slide",
+      "Brick Break"
+    ]
+  },
+  "salamence": {
+    "moves": [
+      "Dragon Dance",
+      "Double-Edge",
+      "Roost",
+      "Facade"
+    ]
+  },
+  "beldum": {
+    "moves": [
+      "Iron Head",
+      "Zen Headbutt",
+      "Headbutt",
+      "Iron Defense"
+    ]
+  },
+  "metang": {
+    "moves": [
+      "Stealth Rock",
+      "Meteor Mash",
+      "Earthquake",
+      "Bullet Punch"
+    ]
+  },
+  "metagross": {
+    "moves": [
+      "Meteor Mash",
+      "Ice Punch",
+      "Rock Slide",
+      "Bullet Punch"
+    ]
+  },
+  "regirock": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Slide",
+      "Drain Punch",
+      "Toxic"
+    ]
+  },
+  "regice": {
+    "moves": [
+      "Rest",
+      "Sleep Talk",
+      "Ice Beam",
+      "Thunderbolt"
+    ]
+  },
+  "registeel": {
+    "moves": [
+      "Seismic Toss",
+      "Toxic",
+      "Stealth Rock",
+      "Protect"
+    ]
+  },
+  "latias": {
+    "moves": [
+      "Ice Beam",
+      "Hidden Power Ground",
+      "Thunder Wave",
+      "Roost"
+    ]
+  },
+  "latios": {
+    "moves": [
+      "Psychic",
+      "Earthquake",
+      "Ice Beam",
+      "Roost"
+    ]
+  },
+  "kyogre": {
+    "moves": [
+      "Water Spout",
+      "Calm Mind",
+      "Origin Pulse",
+      "Ice Beam"
+    ]
+  },
+  "groudon": {
+    "moves": [
+      "Stealth Rock",
+      "Swords Dance",
+      "Precipice Blades",
+      "Rock Tomb"
+    ]
+  },
+  "rayquaza": {
+    "moves": [
+      "Dragon Ascent",
+      "Dragon Dance",
+      "Extreme Speed",
+      "V-create"
+    ]
+  },
+  "jirachi": {
+    "moves": [
+      "Iron Head",
+      "U-turn",
+      "Healing Wish",
+      "Fire Punch"
+    ]
+  },
+  "deoxys-normal": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "turtwig": {
+    "moves": [
+      "Stealth Rock",
+      "Synthesis",
+      "Bullet Seed",
+      "Superpower"
+    ]
+  },
+  "grotle": {
+    "moves": [
+      "Shell Smash",
+      "Seed Bomb",
+      "Iron Head",
+      "Superpower"
+    ]
+  },
+  "torterra": {
+    "moves": [
+      "Stealth Rock",
+      "Synthesis",
+      "Wood Hammer",
+      "Earthquake"
+    ]
+  },
+  "chimchar": {
+    "moves": [
+      "Fake Out",
+      "Overheat",
+      "Hidden Power Grass",
+      "Stealth Rock"
+    ]
+  },
+  "monferno": {
+    "moves": [
+      "Stealth Rock",
+      "Close Combat",
+      "Flare Blitz",
+      "U-turn"
+    ]
+  },
+  "infernape": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Focus Blast",
+      "Vacuum Wave"
+    ]
+  },
+  "piplup": {
+    "moves": [
+      "Stealth Rock",
+      "Defog",
+      "Scald",
+      "Ice Beam"
+    ]
+  },
+  "prinplup": {
+    "moves": [
+      "Defog",
+      "Stealth Rock",
+      "Scald",
+      "Toxic"
+    ]
+  },
+  "empoleon": {
+    "moves": [
+      "Scald",
+      "Stealth Rock",
+      "Toxic",
+      "Protect"
+    ]
+  },
+  "starly": {
+    "moves": [
+      "Brave Bird",
+      "Double-Edge",
+      "U-turn",
+      "Heat Wave"
+    ]
+  },
+  "staravia": {
+    "moves": [
+      "Brave Bird",
+      "Double-Edge",
+      "U-turn",
+      "Pursuit"
+    ]
+  },
+  "staraptor": {
+    "moves": [
+      "Brave Bird",
+      "Double-Edge",
+      "U-turn",
+      "Close Combat"
+    ]
+  },
+  "bidoof": {
+    "moves": [
+      "Swords Dance",
+      "Return",
+      "Quick Attack",
+      "Crunch"
+    ]
+  },
+  "bibarel": {
+    "moves": [
+      "Swords Dance",
+      "Return",
+      "Quick Attack",
+      "Liquidation"
+    ]
+  },
+  "kricketot": {
+    "moves": [
+      "Endeavor",
+      "String Shot",
+      "Bug Bite",
+      "Growl"
+    ]
+  },
+  "kricketune": {
+    "moves": [
+      "Sticky Web",
+      "Endeavor",
+      "Taunt",
+      "Bug Bite"
+    ]
+  },
+  "shinx": {
+    "moves": [
+      "Volt Switch",
+      "Wild Charge",
+      "Thief",
+      "Fire Fang"
+    ]
+  },
+  "luxio": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "luxray": {
+    "moves": [
+      "Wild Charge",
+      "Facade",
+      "Superpower",
+      "Volt Switch"
+    ]
+  },
+  "budew": {
+    "moves": [
+      "Spikes",
+      "Sleep Powder",
+      "Synthesis",
+      "Giga Drain"
+    ]
+  },
+  "roserade": {
+    "moves": [
+      "Spikes",
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Hidden Power Fire"
+    ]
+  },
+  "cranidos": {
+    "moves": [
+      "Rock Slide",
+      "Zen Headbutt",
+      "Superpower",
+      "Earthquake"
+    ]
+  },
+  "rampardos": {
+    "moves": [
+      "Rock Slide",
+      "Fire Punch",
+      "Ice Beam",
+      "Zen Headbutt"
+    ]
+  },
+  "shieldon": {
+    "moves": [
+      "Metal Burst",
+      "Stealth Rock",
+      "Rock Blast",
+      "Endure"
+    ]
+  },
+  "bastiodon": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Slide",
+      "Metal Burst",
+      "Toxic"
+    ]
+  },
+  "burmy": {
+    "moves": [
+      "Bug Bite",
+      "String Shot",
+      "Protect",
+      "Hidden Power Ice"
+    ]
+  },
+  "wormadam-plant": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "mothim": {
+    "moves": [
+      "Bug Buzz",
+      "Air Slash",
+      "U-turn",
+      "Energy Ball"
+    ]
+  },
+  "combee": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "vespiquen": {
+    "moves": [
+      "Substitute",
+      "Toxic",
+      "Roost",
+      "Air Slash"
+    ]
+  },
+  "pachirisu": {
+    "moves": [
+      "Nuzzle",
+      "Toxic",
+      "U-turn",
+      "Super Fang"
+    ]
+  },
+  "buizel": {
+    "moves": [
+      "Blizzard",
+      "Scald",
+      "Hidden Power Fire",
+      "Aqua Jet"
+    ]
+  },
+  "floatzel": {
+    "moves": [
+      "Naive Nature",
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Electric / Aqua Jet"
+    ]
+  },
+  "cherubi": {
+    "moves": [
+      "Solar Beam",
+      "Weather Ball",
+      "Sunny Day",
+      "Healing Wish"
+    ]
+  },
+  "cherrim": {
+    "moves": [
+      "Sunny Day",
+      "Swords Dance",
+      "Petal Blizzard",
+      "Return"
+    ]
+  },
+  "shellos": {
+    "moves": [
+      "Scald",
+      "Recover",
+      "Earth Power",
+      "Clear Smog"
+    ]
+  },
+  "gastrodon": {
+    "moves": [
+      "Scald",
+      "Recover",
+      "Toxic",
+      "Earthquake"
+    ]
+  },
+  "ambipom": {
+    "moves": [
+      "Fake Out",
+      "Return",
+      "Low Kick",
+      "U-turn"
+    ]
+  },
+  "drifloon": {
+    "moves": [
+      "Tera Type: Electric",
+      "Timid Nature",
+      "Calm Mind",
+      "Shadow Ball / Thunderbolt / Will-O-Wisp"
+    ]
+  },
+  "drifblim": {
+    "moves": [
+      "Substitute",
+      "Acrobatics",
+      "Knock Off",
+      "Will-O-Wisp"
+    ]
+  },
+  "buneary": {
+    "moves": [
+      "Healing Wish",
+      "Return",
+      "Drain Punch",
+      "Thunder Wave"
+    ]
+  },
+  "lopunny": {
+    "moves": [
+      "Fake Out",
+      "Frustration",
+      "High Jump Kick",
+      "Quick Attack"
+    ]
+  },
+  "mismagius": {
+    "moves": [
+      "Nasty Plot",
+      "Shadow Ball",
+      "Power Gem",
+      "Protect"
+    ]
+  },
+  "honchkrow": {
+    "moves": [
+      "Brave Bird",
+      "Sucker Punch",
+      "Superpower",
+      "Taunt"
+    ]
+  },
+  "glameow": {
+    "moves": [
+      "Jolly Nature",
+      "Return",
+      "Sucker Punch",
+      "Play Rough / Fake Out"
+    ]
+  },
+  "purugly": {
+    "moves": [
+      "Fake Out",
+      "Return",
+      "Knock Off",
+      "U-turn"
+    ]
+  },
+  "chingling": {
+    "moves": [
+      "Psychic",
+      "Recover",
+      "Grass Knot",
+      "Hypnosis"
+    ]
+  },
+  "stunky": {
+    "moves": [
+      "Hasty Nature",
+      "Sucker Punch",
+      "Play Rough",
+      "Fire Blast / Hidden Power Grass"
+    ]
+  },
+  "skuntank": {
+    "moves": [
+      "Pursuit",
+      "Sucker Punch",
+      "Poison Jab",
+      "Defog"
+    ]
+  },
+  "bronzor": {
+    "moves": [
+      "Toxic",
+      "Psywave",
+      "Stealth Rock",
+      "Rest"
+    ]
+  },
+  "bronzong": {
+    "moves": [
+      "Stealth Rock",
+      "Toxic",
+      "Psywave",
+      "Protect"
+    ]
+  },
+  "bonsly": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Slide",
+      "Stomping Tantrum",
+      "Sucker Punch"
+    ]
+  },
+  "mime-jr": {
+    "moves": [
+      "Psychic",
+      "Hidden Power Fighting",
+      "Thunderbolt",
+      "Trick"
+    ]
+  },
+  "happiny": {
+    "moves": [
+      "Thunder Wave",
+      "Heal Bell",
+      "Light Screen",
+      "Flamethrower"
+    ]
+  },
+  "chatot": {
+    "moves": [
+      "Boomburst",
+      "Chatter",
+      "Heat Wave",
+      "U-turn"
+    ]
+  },
+  "spiritomb": {
+    "moves": [
+      "Pursuit",
+      "Sucker Punch",
+      "Foul Play",
+      "Will-O-Wisp"
+    ]
+  },
+  "gible": {
+    "moves": [
+      "Stealth Rock",
+      "Draco Meteor",
+      "Earth Power",
+      "Fire Blast"
+    ]
+  },
+  "gabite": {
+    "moves": [
+      "Earthquake",
+      "Outrage",
+      "Stone Edge",
+      "Iron Tail"
+    ]
+  },
+  "garchomp": {
+    "moves": [
+      "Swords Dance",
+      "Earthquake",
+      "Outrage",
+      "Stealth Rock"
+    ]
+  },
+  "munchlax": {
+    "moves": [
+      "Return",
+      "Earthquake",
+      "Pursuit",
+      "Recycle"
+    ]
+  },
+  "riolu": {
+    "moves": [
+      "Swords Dance",
+      "Copycat",
+      "High Jump Kick",
+      "Protect"
+    ]
+  },
+  "lucario": {
+    "moves": [
+      "Swords Dance",
+      "Meteor Mash",
+      "Close Combat",
+      "Bullet Punch"
+    ]
+  },
+  "hippopotas": {
+    "moves": [
+      "Slack Off",
+      "Stealth Rock",
+      "Earthquake",
+      "Whirlwind"
+    ]
+  },
+  "hippowdon": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Slack Off",
+      "Toxic"
+    ]
+  },
+  "skorupi": {
+    "moves": [
+      "Toxic Spikes",
+      "Taunt",
+      "Knock Off",
+      "Poison Jab"
+    ]
+  },
+  "drapion": {
+    "moves": [
+      "Knock Off",
+      "Poison Jab",
+      "Pursuit",
+      "Earthquake"
+    ]
+  },
+  "croagunk": {
+    "moves": [
+      "Nasty Plot",
+      "Sludge Bomb",
+      "Focus Blast",
+      "Vacuum Wave"
+    ]
+  },
+  "toxicroak": {
+    "moves": [
+      "Swords Dance",
+      "Gunk Shot",
+      "Drain Punch",
+      "Sucker Punch"
+    ]
+  },
+  "carnivine": {
+    "moves": [
+      "Swords Dance",
+      "Power Whip",
+      "Knock Off",
+      "Sleep Powder"
+    ]
+  },
+  "finneon": {
+    "moves": [
+      "Defog",
+      "Scald",
+      "U-turn",
+      "Hidden Power Fighting"
+    ]
+  },
+  "lumineon": {
+    "moves": [
+      "Defog",
+      "Scald",
+      "U-turn",
+      "Toxic"
+    ]
+  },
+  "mantyke": {
+    "moves": [
+      "Modest Nature",
+      "Rain Dance",
+      "Hydro Pump",
+      "Air Slash / Hidden Power Ground"
+    ]
+  },
+  "snover": {
+    "moves": [
+      "Blizzard",
+      "Giga Drain",
+      "Ice Shard",
+      "Hidden Power Ground"
+    ]
+  },
+  "abomasnow": {
+    "moves": [
+      "Blizzard",
+      "Giga Drain",
+      "Focus Blast",
+      "Substitute"
+    ]
+  },
+  "weavile": {
+    "moves": [
+      "Icicle Crash",
+      "Knock Off",
+      "Ice Shard",
+      "Pursuit"
+    ]
+  },
+  "magnezone": {
+    "moves": [
+      "Substitute",
+      "Thunderbolt",
+      "Flash Cannon",
+      "Hidden Power Fire"
+    ]
+  },
+  "lickilicky": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Toxic",
+      "Heal Bell"
+    ]
+  },
+  "rhyperior": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Rock Blast",
+      "Toxic"
+    ]
+  },
+  "tangrowth": {
+    "moves": [
+      "Giga Drain",
+      "Knock Off",
+      "Hidden Power Ice",
+      "Sludge Bomb"
+    ]
+  },
+  "electivire": {
+    "moves": [
+      "Volt Switch",
+      "Wild Charge",
+      "Earthquake",
+      "Ice Punch"
+    ]
+  },
+  "magmortar": {
+    "moves": [
+      "Fire Blast",
+      "Focus Blast",
+      "Thunderbolt",
+      "Taunt"
+    ]
+  },
+  "togekiss": {
+    "moves": [
+      "Nasty Plot",
+      "Heal Bell",
+      "Air Slash",
+      "Roost"
+    ]
+  },
+  "yanmega": {
+    "moves": [
+      "Bug Buzz",
+      "Air Slash",
+      "U-turn",
+      "Giga Drain"
+    ]
+  },
+  "leafeon": {
+    "moves": [
+      "Celebrate",
+      "Swords Dance",
+      "Leaf Blade",
+      "Knock Off"
+    ]
+  },
+  "glaceon": {
+    "moves": [
+      "Ice Beam",
+      "Shadow Ball",
+      "Hidden Power Ground",
+      "Blizzard"
+    ]
+  },
+  "gliscor": {
+    "moves": [
+      "Swords Dance",
+      "Earthquake",
+      "Facade",
+      "Roost"
+    ]
+  },
+  "mamoswine": {
+    "moves": [
+      "Ice Shard",
+      "Earthquake",
+      "Icicle Crash",
+      "Knock Off"
+    ]
+  },
+  "porygon-z": {
+    "moves": [
+      "Thunderbolt",
+      "Ice Beam",
+      "Recover",
+      "Conversion"
+    ]
+  },
+  "gallade": {
+    "moves": [
+      "Swords Dance",
+      "Close Combat",
+      "Zen Headbutt",
+      "Knock Off"
+    ]
+  },
+  "probopass": {
+    "moves": [
+      "Smack Down",
+      "Earth Power",
+      "Stealth Rock",
+      "Volt Switch"
+    ]
+  },
+  "dusknoir": {
+    "moves": [
+      "Trick Room",
+      "Will-O-Wisp",
+      "Brick Break",
+      "Memento"
+    ]
+  },
+  "froslass": {
+    "moves": [
+      "Spikes",
+      "Taunt",
+      "Icy Wind",
+      "Destiny Bond"
+    ]
+  },
+  "rotom": {
+    "moves": [
+      "Defog",
+      "Volt Switch",
+      "Will-O-Wisp",
+      "Hex"
+    ]
+  },
+  "uxie": {
+    "moves": [
+      "Stealth Rock",
+      "Psyshock",
+      "Yawn",
+      "U-turn"
+    ]
+  },
+  "mesprit": {
+    "moves": [
+      "Stealth Rock",
+      "Psychic",
+      "Thunder",
+      "Energy Ball"
+    ]
+  },
+  "azelf": {
+    "moves": [
+      "Nasty Plot",
+      "Psyshock",
+      "Flamethrower",
+      "Dazzling Gleam"
+    ]
+  },
+  "dialga": {
+    "moves": [
+      "Stealth Rock",
+      "Draco Meteor",
+      "Fire Blast",
+      "Thunder"
+    ]
+  },
+  "palkia": {
+    "moves": [
+      "Hydro Pump",
+      "Spacial Rend",
+      "Thunder",
+      "Focus Punch"
+    ]
+  },
+  "heatran": {
+    "moves": [
+      "Magma Storm",
+      "Earth Power",
+      "Toxic",
+      "Stealth Rock"
+    ]
+  },
+  "regigigas": {
+    "moves": [
+      "Thunder Wave",
+      "Knock Off",
+      "Return",
+      "Drain Punch"
+    ]
+  },
+  "giratina-altered": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "cresselia": {
+    "moves": [
+      "Moonlight",
+      "Psyshock",
+      "Moonblast",
+      "Toxic"
+    ]
+  },
+  "phione": {
+    "moves": [
+      "Relaxed Nature",
+      "Rain Dance",
+      "Heal Bell",
+      "Scald / U-turn"
+    ]
+  },
+  "manaphy": {
+    "moves": [
+      "Tail Glow",
+      "Rest",
+      "Surf",
+      "Ice Beam"
+    ]
+  },
+  "darkrai": {
+    "moves": [
+      "Hypnosis",
+      "Nasty Plot",
+      "Dark Pulse",
+      "Thunder"
+    ]
+  },
+  "shaymin-land": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "arceus": {
+    "moves": [
+      "Swords Dance",
+      "Extreme Speed",
+      "Shadow Claw",
+      "Recover"
+    ]
+  },
+  "victini": {
+    "moves": [
+      "V-create",
+      "U-turn",
+      "Final Gambit",
+      "Trick"
+    ]
+  },
+  "snivy": {
+    "moves": [
+      "Leaf Storm",
+      "Defog",
+      "Synthesis",
+      "Hidden Power Ice"
+    ]
+  },
+  "servine": {
+    "moves": [
+      "Leaf Storm",
+      "Knock Off",
+      "Synthesis",
+      "Glare"
+    ]
+  },
+  "serperior": {
+    "moves": [
+      "Leaf Storm",
+      "Taunt",
+      "Glare",
+      "Defog"
+    ]
+  },
+  "tepig": {
+    "moves": [
+      "Flare Blitz",
+      "Head Smash",
+      "Sucker Punch",
+      "Superpower"
+    ]
+  },
+  "pignite": {
+    "moves": [
+      "Close Combat",
+      "Flare Blitz",
+      "Knock Off",
+      "High Horsepower"
+    ]
+  },
+  "emboar": {
+    "moves": [
+      "Flare Blitz",
+      "Superpower",
+      "Wild Charge",
+      "Earthquake"
+    ]
+  },
+  "oshawott": {
+    "moves": [
+      "Swords Dance",
+      "Sacred Sword",
+      "Aqua Jet",
+      "Aqua Tail"
+    ]
+  },
+  "dewott": {
+    "moves": [
+      "Swords Dance",
+      "Liquidation",
+      "Knock Off",
+      "Aqua Jet"
+    ]
+  },
+  "samurott": {
+    "moves": [
+      "Hydro Pump",
+      "Grass Knot",
+      "Ice Beam",
+      "Taunt"
+    ]
+  },
+  "patrat": {
+    "moves": [
+      "Swords Dance",
+      "Hypnosis",
+      "Return",
+      "Zen Headbutt"
+    ]
+  },
+  "watchog": {
+    "moves": [
+      "Return",
+      "Low Kick",
+      "Knock Off",
+      "Seed Bomb"
+    ]
+  },
+  "lillipup": {
+    "moves": [
+      "Return",
+      "Play Rough",
+      "Fire Fang",
+      "Thunder Wave"
+    ]
+  },
+  "herdier": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "stoutland": {
+    "moves": [
+      "Return",
+      "Superpower",
+      "Pursuit",
+      "Facade"
+    ]
+  },
+  "purrloin": {
+    "moves": [
+      "Encore",
+      "U-turn",
+      "Knock Off",
+      "Thunder Wave"
+    ]
+  },
+  "liepard": {
+    "moves": [
+      "Knock Off",
+      "Pursuit",
+      "Play Rough",
+      "U-turn"
+    ]
+  },
+  "pansage": {
+    "moves": [
+      "Bullet Seed",
+      "Knock Off",
+      "Low Sweep",
+      "Gunk Shot"
+    ]
+  },
+  "simisage": {
+    "moves": [
+      "Leaf Storm",
+      "Hidden Power Ice",
+      "Knock Off",
+      "Superpower"
+    ]
+  },
+  "pansear": {
+    "moves": [
+      "Recycle",
+      "Will-O-Wisp",
+      "Substitute",
+      "Flame Charge"
+    ]
+  },
+  "simisear": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Taunt",
+      "Grass Knot"
+    ]
+  },
+  "panpour": {
+    "moves": [
+      "Nasty Plot",
+      "Hydro Pump",
+      "Ice Beam",
+      "Hidden Power Grass"
+    ]
+  },
+  "simipour": {
+    "moves": [
+      "Nasty Plot",
+      "Hydro Pump",
+      "Ice Beam",
+      "Substitute"
+    ]
+  },
+  "munna": {
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Dazzling Gleam",
+      "Moonlight"
+    ]
+  },
+  "musharna": {
+    "moves": [
+      "Future Sight",
+      "Dazzling Gleam",
+      "Moonlight",
+      "Healing Wish"
+    ]
+  },
+  "pidove": {
+    "moves": [
+      "Tailwind",
+      "Aerial Ace",
+      "Hidden Power Grass",
+      "Return"
+    ]
+  },
+  "tranquill": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "unfezant": {
+    "moves": [
+      "Tailwind",
+      "Hypnosis",
+      "U-turn",
+      "Return"
+    ]
+  },
+  "blitzle": {
+    "moves": [
+      "Naive Nature",
+      "Wild Charge",
+      "Volt Switch",
+      "Flame Charge / Hidden Power Grass"
+    ]
+  },
+  "zebstrika": {
+    "moves": [
+      "Timid Nature",
+      "Thunderbolt",
+      "Volt Switch",
+      "Overheat / Hidden Power Ice"
+    ]
+  },
+  "roggenrola": {
+    "moves": [
+      "Stealth Rock",
+      "Rock Blast",
+      "Earthquake",
+      "Explosion"
+    ]
+  },
+  "boldore": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "gigalith": {
+    "moves": [
+      "Stealth Rock",
+      "Stone Edge",
+      "Earthquake",
+      "Toxic"
+    ]
+  },
+  "woobat": {
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Heat Wave",
+      "Roost"
+    ]
+  },
+  "swoobat": {
+    "moves": [
+      "Substitute",
+      "Calm Mind",
+      "Stored Power",
+      "Heat Wave"
+    ]
+  },
+  "drilbur": {
+    "moves": [
+      "Earthquake",
+      "Rock Slide",
+      "Rapid Spin",
+      "Poison Jab"
+    ]
+  },
+  "excadrill": {
+    "moves": [
+      "Swords Dance",
+      "Iron Head",
+      "Earthquake",
+      "Rapid Spin"
+    ]
+  },
+  "audino": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Heal Bell",
+      "Knock Off"
+    ]
+  },
+  "timburr": {
+    "moves": [
+      "Drain Punch",
+      "Mach Punch",
+      "Knock Off",
+      "Fire Punch"
+    ]
+  },
+  "gurdurr": {
+    "moves": [
+      "Drain Punch",
+      "Mach Punch",
+      "Knock Off",
+      "Bulk Up"
+    ]
+  },
+  "conkeldurr": {
+    "moves": [
+      "Drain Punch",
+      "Mach Punch",
+      "Knock Off",
+      "Facade"
+    ]
+  },
+  "tympole": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Earth Power",
+      "Sludge Bomb"
+    ]
+  },
+  "palpitoad": {
+    "moves": [
+      "Stealth Rock",
+      "Scald",
+      "Rest",
+      "Toxic"
+    ]
+  },
+  "seismitoad": {
+    "moves": [
+      "Stealth Rock",
+      "Scald",
+      "Refresh",
+      "Earthquake"
+    ]
+  },
+  "throh": {
+    "moves": [
+      "Bulk Up",
+      "Storm Throw",
+      "Knock Off",
+      "Substitute"
+    ]
+  },
+  "sawk": {
+    "moves": [
+      "Close Combat",
+      "Knock Off",
+      "Taunt",
+      "Poison Jab"
+    ]
+  },
+  "sewaddle": {
+    "moves": [
+      "Calm Mind",
+      "Solar Beam",
+      "Bug Buzz",
+      "Hidden Power Fire"
+    ]
+  },
+  "swadloon": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "leavanny": {
+    "moves": [
+      "Sticky Web",
+      "Leaf Blade",
+      "X-Scissor",
+      "Knock Off"
+    ]
+  },
+  "venipede": {
+    "moves": [
+      "Spikes",
+      "Solar Beam",
+      "Protect",
+      "Pin Missile"
+    ]
+  },
+  "whirlipede": {
+    "moves": [
+      "Spikes",
+      "Toxic Spikes",
+      "Protect",
+      "Endeavor"
+    ]
+  },
+  "scolipede": {
+    "moves": [
+      "Swords Dance",
+      "Megahorn",
+      "Aqua Tail",
+      "Earthquake"
+    ]
+  },
+  "cottonee": {
+    "moves": [
+      "Giga Drain",
+      "Dazzling Gleam",
+      "Encore",
+      "Memento"
+    ]
+  },
+  "whimsicott": {
+    "moves": [
+      "Moonblast",
+      "Energy Ball",
+      "Psychic",
+      "U-turn"
+    ]
+  },
+  "petilil": {
+    "moves": [
+      "Sunny Day",
+      "Solar Beam",
+      "Hidden Power Fire",
+      "Sleep Powder"
+    ]
+  },
+  "lilligant": {
+    "moves": [
+      "Quiver Dance",
+      "Sleep Powder",
+      "Giga Drain",
+      "Hyper Beam"
+    ]
+  },
+  "basculin-red-striped": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sandile": {
+    "moves": [
+      "Earthquake",
+      "Crunch",
+      "Fire Fang",
+      "Pursuit"
+    ]
+  },
+  "krokorok": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Knock Off",
+      "Taunt"
+    ]
+  },
+  "krookodile": {
+    "moves": [
+      "Knock Off",
+      "Earthquake",
+      "Pursuit",
+      "Stone Edge"
+    ]
+  },
+  "darumaka": {
+    "moves": [
+      "Flare Blitz",
+      "U-turn",
+      "Superpower",
+      "Rock Slide"
+    ]
+  },
+  "darmanitan-standard": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "maractus": {
+    "moves": [
+      "Spikes",
+      "Endeavor",
+      "Energy Ball",
+      "Sucker Punch"
+    ]
+  },
+  "dwebble": {
+    "moves": [
+      "Stealth Rock",
+      "Spikes",
+      "Rock Blast",
+      "Knock Off"
+    ]
+  },
+  "crustle": {
+    "moves": [
+      "Shell Smash",
+      "Stone Edge",
+      "Earthquake",
+      "Knock Off"
+    ]
+  },
+  "scraggy": {
+    "moves": [
+      "Dragon Dance",
+      "High Jump Kick",
+      "Knock Off",
+      "Zen Headbutt"
+    ]
+  },
+  "scrafty": {
+    "moves": [
+      "Bulk Up",
+      "Knock Off",
+      "Drain Punch",
+      "Rest"
+    ]
+  },
+  "sigilyph": {
+    "moves": [
+      "Air Slash",
+      "Heat Wave",
+      "Energy Ball",
+      "Roost"
+    ]
+  },
+  "yamask": {
+    "moves": [
+      "Will-O-Wisp",
+      "Hex",
+      "Knock Off",
+      "Toxic Spikes"
+    ]
+  },
+  "cofagrigus": {
+    "moves": [
+      "Quiet Nature",
+      "Shadow Ball",
+      "Hidden Power Fighting",
+      "Trick Room / Nasty Plot"
+    ]
+  },
+  "tirtouga": {
+    "moves": [
+      "Stealth Rock",
+      "Stone Edge",
+      "Knock Off",
+      "Aqua Jet"
+    ]
+  },
+  "carracosta": {
+    "moves": [
+      "Shell Smash",
+      "Stone Edge",
+      "Aqua Jet",
+      "Hydro Pump"
+    ]
+  },
+  "archen": {
+    "moves": [
+      "Acrobatics",
+      "Rock Slide",
+      "Heat Wave",
+      "Hidden Power Grass"
+    ]
+  },
+  "archeops": {
+    "moves": [
+      "Naive Nature",
+      "Head Smash",
+      "Stealth Rock",
+      "Endeavor / Taunt"
+    ]
+  },
+  "trubbish": {
+    "moves": [
+      "Spikes",
+      "Recycle",
+      "Gunk Shot",
+      "Drain Punch"
+    ]
+  },
+  "garbodor": {
+    "moves": [
+      "Gunk Shot",
+      "Spikes",
+      "Stomping Tantrum",
+      "Explosion"
+    ]
+  },
+  "zorua": {
+    "moves": [
+      "Night Daze",
+      "Extrasensory",
+      "Nasty Plot",
+      "U-turn"
+    ]
+  },
+  "zoroark": {
+    "moves": [
+      "Nasty Plot",
+      "Dark Pulse",
+      "Focus Blast",
+      "Sludge Bomb"
+    ]
+  },
+  "minccino": {
+    "moves": [
+      "Tail Slap",
+      "Knock Off",
+      "Seed Bomb",
+      "U-turn"
+    ]
+  },
+  "cinccino": {
+    "moves": [
+      "Tail Slap",
+      "Rock Blast",
+      "Bullet Seed",
+      "Knock Off"
+    ]
+  },
+  "gothita": {
+    "moves": [
+      "Tera Type: Psychic",
+      "Modest Nature",
+      "Psychic",
+      "Trick / Thunderbolt / Energy Ball"
+    ]
+  },
+  "gothorita": {
+    "moves": [
+      "Sassy Nature",
+      "Charm",
+      "Confide",
+      "Taunt / Rest"
+    ]
+  },
+  "gothitelle": {
+    "moves": [
+      "Confide",
+      "Taunt",
+      "Rest",
+      "Charm"
+    ]
+  },
+  "solosis": {
+    "moves": [
+      "Quiet Nature",
+      "Trick Room",
+      "Psychic",
+      "Thunder / Hidden Power Fighting"
+    ]
+  },
+  "duosion": {
+    "moves": [
+      "Calm Mind",
+      "Psychic",
+      "Signal Beam",
+      "Recover"
+    ]
+  },
+  "reuniclus": {
+    "moves": [
+      "Calm Mind",
+      "Psyshock",
+      "Focus Blast",
+      "Recover"
+    ]
+  },
+  "ducklett": {
+    "moves": [
+      "Hurricane",
+      "Scald",
+      "Defog",
+      "Roost"
+    ]
+  },
+  "swanna": {
+    "moves": [
+      "Hurricane",
+      "Scald",
+      "Defog",
+      "Roost"
+    ]
+  },
+  "vanillite": {
+    "moves": [
+      "Modest Nature",
+      "Ice Beam",
+      "Hidden Power Fighting",
+      "Explosion / Substitute"
+    ]
+  },
+  "vanillish": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "vanilluxe": {
+    "moves": [
+      "Blizzard",
+      "Freeze-Dry",
+      "Ice Shard",
+      "Taunt"
+    ]
+  },
+  "deerling": {
+    "moves": [
+      "Return",
+      "Seed Bomb",
+      "Jump Kick",
+      "Substitute"
+    ]
+  },
+  "sawsbuck": {
+    "moves": [
+      "Double-Edge",
+      "Horn Leech",
+      "Jump Kick",
+      "Headbutt"
+    ]
+  },
+  "emolga": {
+    "moves": [
+      "Thunderbolt",
+      "U-turn",
+      "Encore",
+      "Roost"
+    ]
+  },
+  "karrablast": {
+    "moves": [
+      "Megahorn",
+      "Knock Off",
+      "Drill Run",
+      "Poison Jab"
+    ]
+  },
+  "escavalier": {
+    "moves": [
+      "Megahorn",
+      "Iron Head",
+      "Protect",
+      "Pursuit"
+    ]
+  },
+  "foongus": {
+    "moves": [
+      "Spore",
+      "Sludge Bomb",
+      "Giga Drain",
+      "Synthesis"
+    ]
+  },
+  "amoonguss": {
+    "moves": [
+      "Spore",
+      "Giga Drain",
+      "Hidden Power Fire",
+      "Sludge Bomb"
+    ]
+  },
+  "frillish": {
+    "moves": [
+      "Scald",
+      "Shadow Ball",
+      "Recover",
+      "Will-O-Wisp"
+    ]
+  },
+  "jellicent": {
+    "moves": [
+      "Hex",
+      "Taunt",
+      "Will-O-Wisp",
+      "Recover"
+    ]
+  },
+  "alomomola": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Toxic",
+      "Scald"
+    ]
+  },
+  "joltik": {
+    "moves": [
+      "Volt Switch",
+      "Thunderbolt",
+      "Giga Drain",
+      "Bug Buzz"
+    ]
+  },
+  "galvantula": {
+    "moves": [
+      "Sticky Web",
+      "Thunder",
+      "Bug Buzz",
+      "Volt Switch"
+    ]
+  },
+  "ferroseed": {
+    "moves": [
+      "Relaxed Nature",
+      "Spikes",
+      "Leech Seed",
+      "Gyro Ball / Protect"
+    ]
+  },
+  "ferrothorn": {
+    "moves": [
+      "Power Whip",
+      "Spikes",
+      "Gyro Ball",
+      "Leech Seed"
+    ]
+  },
+  "klink": {
+    "moves": [
+      "Shift Gear",
+      "Gear Grind",
+      "Wild Charge",
+      "Return"
+    ]
+  },
+  "klang": {
+    "moves": [
+      "Shift Gear",
+      "Rest",
+      "Gear Grind",
+      "Sleep Talk"
+    ]
+  },
+  "klinklang": {
+    "moves": [
+      "Shift Gear",
+      "Gear Grind",
+      "Wild Charge",
+      "Magnet Rise"
+    ]
+  },
+  "tynamo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "eelektrik": {
+    "moves": [
+      "Wild Charge",
+      "U-turn",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "eelektross": {
+    "moves": [
+      "Volt Switch",
+      "Giga Drain",
+      "Flamethrower",
+      "Knock Off"
+    ]
+  },
+  "elgyem": {
+    "moves": [
+      "Quiet Nature",
+      "Trick Room",
+      "Nasty Plot",
+      "Psychic / Hidden Power Fighting"
+    ]
+  },
+  "beheeyem": {
+    "moves": [
+      "Psychic",
+      "Shadow Ball",
+      "Hidden Power Fighting",
+      "Trick"
+    ]
+  },
+  "litwick": {
+    "moves": [
+      "Quiet Nature",
+      "Memento",
+      "Trick Room",
+      "Fire Blast / Will-O-Wisp"
+    ]
+  },
+  "lampent": {
+    "moves": [
+      "Trick",
+      "Fire Blast",
+      "Shadow Ball",
+      "Energy Ball"
+    ]
+  },
+  "chandelure": {
+    "moves": [
+      "Substitute",
+      "Calm Mind",
+      "Shadow Ball",
+      "Flamethrower"
+    ]
+  },
+  "axew": {
+    "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Superpower",
+      "Iron Tail"
+    ]
+  },
+  "fraxure": {
+    "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Iron Tail",
+      "Stomping Tantrum"
+    ]
+  },
+  "haxorus": {
+    "moves": [
+      "Swords Dance",
+      "Outrage",
+      "Earthquake",
+      "Poison Jab"
+    ]
+  },
+  "cubchoo": {
+    "moves": [
+      "Ice Punch",
+      "Superpower",
+      "Play Rough",
+      "Surf"
+    ]
+  },
+  "beartic": {
+    "moves": [
+      "Adamant Nature",
+      "Icicle Crash",
+      "Superpower",
+      "Substitute / Swords Dance"
+    ]
+  },
+  "cryogonal": {
+    "moves": [
+      "Timid Nature",
+      "Rapid Spin",
+      "Recover",
+      "Freeze-Dry / Hidden Power Fire"
+    ]
+  },
+  "shelmet": {
+    "moves": [
+      "Spikes",
+      "Recover",
+      "Acid Armor",
+      "Bug Buzz"
+    ]
+  },
+  "accelgor": {
+    "moves": [
+      "Bug Buzz",
+      "Focus Blast",
+      "Energy Ball",
+      "Spikes"
+    ]
+  },
+  "stunfisk": {
+    "moves": [
+      "Stealth Rock",
+      "Discharge",
+      "Earth Power",
+      "Toxic"
+    ]
+  },
+  "mienfoo": {
+    "moves": [
+      "High Jump Kick",
+      "U-turn",
+      "Knock Off",
+      "Fake Out"
+    ]
+  },
+  "mienshao": {
+    "moves": [
+      "High Jump Kick",
+      "Knock Off",
+      "U-turn",
+      "Fake Out"
+    ]
+  },
+  "druddigon": {
+    "moves": [
+      "Stealth Rock",
+      "Toxic",
+      "Earthquake",
+      "Dragon Tail"
+    ]
+  },
+  "golett": {
+    "moves": [
+      "Drain Punch",
+      "Earthquake",
+      "Stealth Rock",
+      "Ice Punch"
+    ]
+  },
+  "golurk": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Shadow Punch",
+      "Ice Punch"
+    ]
+  },
+  "pawniard": {
+    "moves": [
+      "Swords Dance",
+      "Knock Off",
+      "Sucker Punch",
+      "Iron Head"
+    ]
+  },
+  "bisharp": {
+    "moves": [
+      "Swords Dance",
+      "Knock Off",
+      "Iron Head",
+      "Sucker Punch"
+    ]
+  },
+  "bouffalant": {
+    "moves": [
+      "Return",
+      "Swords Dance",
+      "Toxic",
+      "Substitute"
+    ]
+  },
+  "rufflet": {
+    "moves": [
+      "Brave Bird",
+      "Superpower",
+      "U-turn",
+      "Return"
+    ]
+  },
+  "braviary": {
+    "moves": [
+      "Brave Bird",
+      "Superpower",
+      "Bulk Up",
+      "Roost"
+    ]
+  },
+  "vullaby": {
+    "moves": [
+      "Brave Bird",
+      "Knock Off",
+      "U-turn",
+      "Defog"
+    ]
+  },
+  "mandibuzz": {
+    "moves": [
+      "Taunt",
+      "Toxic",
+      "Roost",
+      "Foul Play"
+    ]
+  },
+  "heatmor": {
+    "moves": [
+      "Fire Lash",
+      "Sucker Punch",
+      "Knock Off",
+      "Superpower"
+    ]
+  },
+  "durant": {
+    "moves": [
+      "Hone Claws",
+      "Iron Head",
+      "Superpower",
+      "Crunch"
+    ]
+  },
+  "deino": {
+    "moves": [
+      "Outrage",
+      "Crunch",
+      "Superpower",
+      "Zen Headbutt"
+    ]
+  },
+  "zweilous": {
+    "moves": [
+      "Crunch",
+      "Outrage",
+      "Stomping Tantrum",
+      "Zen Headbutt"
+    ]
+  },
+  "hydreigon": {
+    "moves": [
+      "Draco Meteor",
+      "Dark Pulse",
+      "U-turn",
+      "Fire Blast"
+    ]
+  },
+  "larvesta": {
+    "moves": [
+      "Flare Blitz",
+      "Morning Sun",
+      "U-turn",
+      "Will-O-Wisp"
+    ]
+  },
+  "volcarona": {
+    "moves": [
+      "Quiver Dance",
+      "Flamethrower",
+      "Bug Buzz",
+      "Hidden Power Ground"
+    ]
+  },
+  "cobalion": {
+    "moves": [
+      "Swords Dance",
+      "Iron Head",
+      "Close Combat",
+      "Stealth Rock"
+    ]
+  },
+  "terrakion": {
+    "moves": [
+      "Swords Dance",
+      "Stone Edge",
+      "Close Combat",
+      "Earthquake"
+    ]
+  },
+  "virizion": {
+    "moves": [
+      "Swords Dance",
+      "Close Combat",
+      "Leaf Blade",
+      "Synthesis"
+    ]
+  },
+  "tornadus-incarnate": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "thundurus-incarnate": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "reshiram": {
+    "moves": [
+      "Blue Flare",
+      "Draco Meteor",
+      "Roost",
+      "Toxic"
+    ]
+  },
+  "zekrom": {
+    "moves": [
+      "Hone Claws",
+      "Bolt Strike",
+      "Outrage",
+      "Substitute"
+    ]
+  },
+  "landorus-incarnate": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "kyurem": {
+    "moves": [
+      "Substitute",
+      "Ice Beam",
+      "Earth Power",
+      "Roost"
+    ]
+  },
+  "keldeo-ordinary": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "meloetta-aria": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "genesect": {
+    "moves": [
+      "U-turn",
+      "Iron Head",
+      "Extreme Speed",
+      "Explosion"
+    ]
+  },
+  "chespin": {
+    "moves": [
+      "Seed Bomb",
+      "Zen Headbutt",
+      "Synthesis",
+      "Spikes"
+    ]
+  },
+  "quilladin": {
+    "moves": [
+      "Spikes",
+      "Wood Hammer",
+      "Super Fang",
+      "Synthesis"
+    ]
+  },
+  "chesnaught": {
+    "moves": [
+      "Spikes",
+      "Wood Hammer",
+      "Drain Punch",
+      "Synthesis"
+    ]
+  },
+  "fennekin": {
+    "moves": [
+      "Fire Blast",
+      "Solar Beam",
+      "Psychic",
+      "Will-O-Wisp"
+    ]
+  },
+  "braixen": {
+    "moves": [
+      "Calm Mind",
+      "Flamethrower",
+      "Psychic",
+      "Substitute"
+    ]
+  },
+  "delphox": {
+    "moves": [
+      "Calm Mind",
+      "Fire Blast",
+      "Psychic",
+      "Grass Knot"
+    ]
+  },
+  "froakie": {
+    "moves": [
+      "Naive Nature",
+      "Hydro Pump",
+      "Ice Beam",
+      "U-turn / Hidden Power Fire"
+    ]
+  },
+  "frogadier": {
+    "moves": [
+      "Hydro Pump",
+      "Ice Beam",
+      "Dark Pulse",
+      "U-turn"
+    ]
+  },
+  "greninja": {
+    "moves": [
+      "Hydro Pump",
+      "Dark Pulse",
+      "Water Shuriken",
+      "Spikes"
+    ]
+  },
+  "bunnelby": {
+    "moves": [
+      "Return",
+      "U-turn",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "diggersby": {
+    "moves": [
+      "Earthquake",
+      "Return",
+      "Quick Attack",
+      "Spikes"
+    ]
+  },
+  "fletchling": {
+    "moves": [
+      "Acrobatics",
+      "Swords Dance",
+      "U-turn",
+      "Substitute"
+    ]
+  },
+  "fletchinder": {
+    "moves": [
+      "Defog",
+      "Will-O-Wisp",
+      "Brave Bird",
+      "Roost"
+    ]
+  },
+  "talonflame": {
+    "moves": [
+      "Swords Dance",
+      "Brave Bird",
+      "Flare Blitz",
+      "Taunt"
+    ]
+  },
+  "scatterbug": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "spewpa": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "vivillon": {
+    "moves": [
+      "Quiver Dance",
+      "Hurricane",
+      "Energy Ball",
+      "Sleep Powder"
+    ]
+  },
+  "litleo": {
+    "moves": [
+      "Flare Blitz",
+      "Return",
+      "Flame Charge",
+      "Wild Charge"
+    ]
+  },
+  "pyroar": {
+    "moves": [
+      "Fire Blast",
+      "Hyper Voice",
+      "Solar Beam",
+      "Taunt"
+    ]
+  },
+  "flabebe": {
+    "moves": [
+      "Calm Mind",
+      "Psychic",
+      "Moonblast",
+      "Synthesis"
+    ]
+  },
+  "floette": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "florges": {
+    "moves": [
+      "Moonblast",
+      "Synthesis",
+      "Aromatherapy",
+      "Wish"
+    ]
+  },
+  "skiddo": {
+    "moves": [
+      "Bulk Up",
+      "Horn Leech",
+      "Rock Slide",
+      "Zen Headbutt"
+    ]
+  },
+  "gogoat": {
+    "moves": [
+      "Bulk Up",
+      "Horn Leech",
+      "Earthquake",
+      "Milk Drink"
+    ]
+  },
+  "pancham": {
+    "moves": [
+      "Parting Shot",
+      "Drain Punch",
+      "Knock Off",
+      "Gunk Shot"
+    ]
+  },
+  "pangoro": {
+    "moves": [
+      "Swords Dance",
+      "Knock Off",
+      "Drain Punch",
+      "Bullet Punch"
+    ]
+  },
+  "furfrou": {
+    "moves": [
+      "Return",
+      "U-turn",
+      "Surf",
+      "Sucker Punch"
+    ]
+  },
+  "espurr": {
+    "moves": [
+      "Timid Nature",
+      "Thunderbolt",
+      "Psychic",
+      "Substitute / Hidden Power Fire"
+    ]
+  },
+  "meowstic-male": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "honedge": {
+    "moves": [
+      "Shadow Sneak",
+      "Iron Head",
+      "Sacred Sword",
+      "Pursuit"
+    ]
+  },
+  "doublade": {
+    "moves": [
+      "Brave Nature",
+      "Swords Dance",
+      "Gyro Ball",
+      "Shadow Claw / Shadow Sneak"
+    ]
+  },
+  "aegislash-shield": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "spritzee": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Moonblast",
+      "Covet"
+    ]
+  },
+  "aromatisse": {
+    "moves": [
+      "Quiet Nature",
+      "Trick Room",
+      "Nasty Plot",
+      "Moonblast / Psychic"
+    ]
+  },
+  "swirlix": {
+    "moves": [
+      "Calm Mind",
+      "Draining Kiss",
+      "Flamethrower",
+      "Thunderbolt"
+    ]
+  },
+  "slurpuff": {
+    "moves": [
+      "Belly Drum",
+      "Play Rough",
+      "Return",
+      "Drain Punch"
+    ]
+  },
+  "inkay": {
+    "moves": [
+      "Superpower",
+      "Knock Off",
+      "Psycho Cut",
+      "Switcheroo"
+    ]
+  },
+  "malamar": {
+    "moves": [
+      "Superpower",
+      "Knock Off",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "binacle": {
+    "moves": [
+      "Shell Smash",
+      "Liquidation",
+      "Stone Edge",
+      "Cross Chop"
+    ]
+  },
+  "barbaracle": {
+    "moves": [
+      "Shell Smash",
+      "Stone Edge",
+      "Liquidation",
+      "Grass Knot"
+    ]
+  },
+  "skrelp": {
+    "moves": [
+      "Sludge Wave",
+      "Hydro Pump",
+      "Hidden Power Fire",
+      "Toxic Spikes"
+    ]
+  },
+  "dragalge": {
+    "moves": [
+      "Draco Meteor",
+      "Sludge Bomb",
+      "Focus Blast",
+      "Toxic Spikes"
+    ]
+  },
+  "clauncher": {
+    "moves": [
+      "U-turn",
+      "Water Pulse",
+      "Ice Beam",
+      "Hidden Power Grass"
+    ]
+  },
+  "clawitzer": {
+    "moves": [
+      "Water Pulse",
+      "Ice Beam",
+      "Dark Pulse",
+      "Aura Sphere"
+    ]
+  },
+  "helioptile": {
+    "moves": [
+      "Timid Nature",
+      "Thunderbolt",
+      "Surf",
+      "Glare / U-turn"
+    ]
+  },
+  "heliolisk": {
+    "moves": [
+      "Volt Switch",
+      "Hyper Voice",
+      "Thunderbolt",
+      "Surf"
+    ]
+  },
+  "tyrunt": {
+    "moves": [
+      "Jolly Nature",
+      "Dragon Dance",
+      "Stone Edge",
+      "Outrage / Earthquake"
+    ]
+  },
+  "tyrantrum": {
+    "moves": [
+      "Head Smash",
+      "Outrage",
+      "Earthquake",
+      "Dragon Claw"
+    ]
+  },
+  "amaura": {
+    "moves": [
+      "Blizzard",
+      "Earth Power",
+      "Thunderbolt",
+      "Ancient Power"
+    ]
+  },
+  "aurorus": {
+    "moves": [
+      "Modest Nature",
+      "Blizzard",
+      "Freeze-Dry",
+      "Earth Power / Hidden Power Rock"
+    ]
+  },
+  "sylveon": {
+    "moves": [
+      "Hyper Voice",
+      "Wish",
+      "Protect",
+      "Heal Bell"
+    ]
+  },
+  "hawlucha": {
+    "moves": [
+      "Acrobatics",
+      "Swords Dance",
+      "High Jump Kick",
+      "Roost"
+    ]
+  },
+  "dedenne": {
+    "moves": [
+      "Substitute",
+      "Recycle",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  },
+  "carbink": {
+    "moves": [
+      "Trick Room",
+      "Stealth Rock",
+      "Magic Coat",
+      "Explosion"
+    ]
+  },
+  "goomy": {
+    "moves": [
+      "Dragon Pulse",
+      "Sludge Wave",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "sliggoo": {
+    "moves": [
+      "Curse",
+      "Outrage",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "goodra": {
+    "moves": [
+      "Draco Meteor",
+      "Thunderbolt",
+      "Fire Blast",
+      "Earthquake"
+    ]
+  },
+  "klefki": {
+    "moves": [
+      "Spikes",
+      "Thunder Wave",
+      "Toxic",
+      "Play Rough"
+    ]
+  },
+  "phantump": {
+    "moves": [
+      "Forest's Curse",
+      "Shadow Claw",
+      "Horn Leech",
+      "Rock Slide"
+    ]
+  },
+  "trevenant": {
+    "moves": [
+      "Wood Hammer",
+      "Earthquake",
+      "Rock Slide",
+      "Shadow Claw"
+    ]
+  },
+  "pumpkaboo-average": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "gourgeist-average": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "bergmite": {
+    "moves": [
+      "Rapid Spin",
+      "Recover",
+      "Avalanche",
+      "Toxic"
+    ]
+  },
+  "avalugg": {
+    "moves": [
+      "Rapid Spin",
+      "Recover",
+      "Avalanche",
+      "Toxic"
+    ]
+  },
+  "noibat": {
+    "moves": [
+      "Timid Nature",
+      "Draco Meteor",
+      "Hurricane",
+      "Heat Wave / Tailwind"
+    ]
+  },
+  "noivern": {
+    "moves": [
+      "Hurricane",
+      "Taunt",
+      "Roost",
+      "U-turn"
+    ]
+  },
+  "xerneas": {
+    "moves": [
+      "Moonblast",
+      "Focus Blast",
+      "Aromatherapy",
+      "Defog"
+    ]
+  },
+  "yveltal": {
+    "moves": [
+      "Dark Pulse",
+      "Oblivion Wing",
+      "Taunt",
+      "Sucker Punch"
+    ]
+  },
+  "zygarde-50": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "diancie": {
+    "moves": [
+      "Stealth Rock",
+      "Moonblast",
+      "Diamond Storm",
+      "Earth Power"
+    ]
+  },
+  "hoopa": {
+    "moves": [
+      "Shadow Ball",
+      "Focus Blast",
+      "Thunderbolt",
+      "Nasty Plot"
+    ]
+  },
+  "volcanion": {
+    "moves": [
+      "Defog",
+      "Steam Eruption",
+      "Flamethrower",
+      "Sludge Bomb"
+    ]
+  },
+  "rowlet": {
+    "moves": [
+      "Swords Dance",
+      "Brave Bird",
+      "Leaf Blade",
+      "Sucker Punch"
+    ]
+  },
+  "dartrix": {
+    "moves": [
+      "Night Shade",
+      "Roost",
+      "Defog",
+      "Knock Off"
+    ]
+  },
+  "decidueye": {
+    "moves": [
+      "Nasty Plot",
+      "Shadow Ball",
+      "Leaf Storm",
+      "Roost"
+    ]
+  },
+  "litten": {
+    "moves": [
+      "U-turn",
+      "Flare Blitz",
+      "Will-O-Wisp",
+      "Fake Out"
+    ]
+  },
+  "torracat": {
+    "moves": [
+      "U-turn",
+      "Taunt",
+      "Overheat",
+      "Will-O-Wisp"
+    ]
+  },
+  "incineroar": {
+    "moves": [
+      "Swords Dance",
+      "Knock Off",
+      "Earthquake",
+      "Flare Blitz"
+    ]
+  },
+  "popplio": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "brionne": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "primarina": {
+    "moves": [
+      "Hydro Pump",
+      "Moonblast",
+      "Sparkling Aria",
+      "Psychic"
+    ]
+  },
+  "pikipek": {
+    "moves": [
+      "Brave Bird",
+      "Bullet Seed",
+      "Brick Break",
+      "U-turn"
+    ]
+  },
+  "trumbeak": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "toucannon": {
+    "moves": [
+      "Adamant Nature",
+      "Brave Bird",
+      "Bullet Seed",
+      "Knock Off / U-turn"
+    ]
+  },
+  "yungoos": {
+    "moves": [
+      "Return",
+      "Earthquake",
+      "U-turn",
+      "Pursuit"
+    ]
+  },
+  "gumshoos": {
+    "moves": [
+      "Return",
+      "Earthquake",
+      "U-turn",
+      "Crunch"
+    ]
+  },
+  "grubbin": {
+    "moves": [
+      "Electroweb",
+      "Volt Switch",
+      "X-Scissor",
+      "Acrobatics"
+    ]
+  },
+  "charjabug": {
+    "moves": [
+      "Sticky Web",
+      "Skitter Smack",
+      "Volt Switch",
+      "Thunder Wave"
+    ]
+  },
+  "vikavolt": {
+    "moves": [
+      "Bug Buzz",
+      "Volt Switch",
+      "Energy Ball",
+      "Roost"
+    ]
+  },
+  "crabrawler": {
+    "moves": [
+      "Jolly Nature",
+      "Close Combat",
+      "Crabhammer",
+      "Earthquake / Stone Edge"
+    ]
+  },
+  "crabominable": {
+    "moves": [
+      "Drain Punch",
+      "Ice Hammer",
+      "Earthquake",
+      "Thunder Punch"
+    ]
+  },
+  "oricorio-baile": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "cutiefly": {
+    "moves": [
+      "Sticky Web",
+      "Stun Spore",
+      "U-turn",
+      "Moonblast"
+    ]
+  },
+  "ribombee": {
+    "moves": [
+      "Moonblast",
+      "Bug Buzz",
+      "U-turn",
+      "Sticky Web"
+    ]
+  },
+  "rockruff": {
+    "moves": [
+      "Jolly Nature",
+      "Stone Edge",
+      "Stomping Tantrum",
+      "Zen Headbutt / Sucker Punch"
+    ]
+  },
+  "lycanroc-midday": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wishiwashi-solo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "mareanie": {
+    "moves": [
+      "Recover",
+      "Scald",
+      "Toxic Spikes",
+      "Haze"
+    ]
+  },
+  "toxapex": {
+    "moves": [
+      "Scald",
+      "Haze",
+      "Toxic Spikes",
+      "Recover"
+    ]
+  },
+  "mudbray": {
+    "moves": [
+      "Earthquake",
+      "Heavy Slam",
+      "Rock Slide",
+      "Stealth Rock"
+    ]
+  },
+  "mudsdale": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Toxic",
+      "Rock Slide"
+    ]
+  },
+  "dewpider": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "araquanid": {
+    "moves": [
+      "Sticky Web",
+      "Liquidation",
+      "Magic Coat",
+      "Mirror Coat"
+    ]
+  },
+  "fomantis": {
+    "moves": [
+      "Leaf Storm",
+      "Defog",
+      "Synthesis",
+      "Hidden Power Fire"
+    ]
+  },
+  "lurantis": {
+    "moves": [
+      "Defog",
+      "Leaf Storm",
+      "Superpower",
+      "Aromatherapy"
+    ]
+  },
+  "morelull": {
+    "moves": [
+      "Spore",
+      "Moonblast",
+      "Giga Drain",
+      "Strength Sap"
+    ]
+  },
+  "shiinotic": {
+    "moves": [
+      "Spore",
+      "Strength Sap",
+      "Giga Drain",
+      "Moonblast"
+    ]
+  },
+  "salandit": {
+    "moves": [
+      "Sludge Bomb",
+      "Fire Blast",
+      "Hidden Power Grass",
+      "Flame Charge"
+    ]
+  },
+  "salazzle": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Sludge Wave",
+      "Hidden Power Grass"
+    ]
+  },
+  "stufful": {
+    "moves": [
+      "Swords Dance",
+      "Return",
+      "Brick Break",
+      "Ice Punch"
+    ]
+  },
+  "bewear": {
+    "moves": [
+      "Swords Dance",
+      "Double-Edge",
+      "Superpower",
+      "Shadow Claw"
+    ]
+  },
+  "bounsweet": {
+    "moves": [
+      "Rapid Spin",
+      "Seed Bomb",
+      "Synthesis",
+      "Play Rough"
+    ]
+  },
+  "steenee": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tsareena": {
+    "moves": [
+      "Rapid Spin",
+      "Power Whip",
+      "Knock Off",
+      "Synthesis"
+    ]
+  },
+  "comfey": {
+    "moves": [
+      "Draining Kiss",
+      "Giga Drain",
+      "Calm Mind",
+      "Hidden Power Ground"
+    ]
+  },
+  "oranguru": {
+    "moves": [
+      "Quiet Nature",
+      "Trick Room",
+      "Nasty Plot",
+      "Psychic / Focus Blast"
+    ]
+  },
+  "passimian": {
+    "moves": [
+      "Close Combat",
+      "U-turn",
+      "Knock Off",
+      "Gunk Shot"
+    ]
+  },
+  "wimpod": {
+    "moves": [
+      "Spikes",
+      "Taunt",
+      "Scald",
+      "Aqua Jet"
+    ]
+  },
+  "golisopod": {
+    "moves": [
+      "First Impression",
+      "Liquidation",
+      "Leech Life",
+      "Aqua Jet"
+    ]
+  },
+  "sandygast": {
+    "moves": [
+      "Rock Polish",
+      "Earth Power",
+      "Shadow Ball",
+      "Destiny Bond"
+    ]
+  },
+  "palossand": {
+    "moves": [
+      "Stealth Rock",
+      "Earth Power",
+      "Shadow Ball",
+      "Shore Up"
+    ]
+  },
+  "pyukumuku": {
+    "moves": [
+      "Recover",
+      "Spite",
+      "Toxic",
+      "Rest"
+    ]
+  },
+  "type-null": {
+    "moves": [
+      "U-turn",
+      "Return",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "silvally": {
+    "moves": [
+      "Double-Edge",
+      "U-turn",
+      "Explosion",
+      "Surf"
+    ]
+  },
+  "minior-red-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "komala": {
+    "moves": [
+      "Return",
+      "Earthquake",
+      "Knock Off",
+      "U-turn"
+    ]
+  },
+  "turtonator": {
+    "moves": [
+      "Shell Smash",
+      "Fire Blast",
+      "Draco Meteor",
+      "Dragon Pulse"
+    ]
+  },
+  "togedemaru": {
+    "moves": [
+      "U-turn",
+      "Zing Zap",
+      "Iron Head",
+      "Nuzzle"
+    ]
+  },
+  "mimikyu-disguised": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "bruxish": {
+    "moves": [
+      "Swords Dance",
+      "Psychic Fangs",
+      "Aqua Jet",
+      "Crunch"
+    ]
+  },
+  "drampa": {
+    "moves": [
+      "Draco Meteor",
+      "Hyper Voice",
+      "Fire Blast",
+      "Focus Blast"
+    ]
+  },
+  "dhelmise": {
+    "moves": [
+      "Power Whip",
+      "Anchor Shot",
+      "Rapid Spin",
+      "Synthesis"
+    ]
+  },
+  "jangmo-o": {
+    "moves": [
+      "Dragon Dance",
+      "Outrage",
+      "Earthquake",
+      "Brick Break"
+    ]
+  },
+  "hakamo-o": {
+    "moves": [
+      "Dragon Dance",
+      "Drain Punch",
+      "Dragon Tail",
+      "Substitute"
+    ]
+  },
+  "kommo-o": {
+    "moves": [
+      "Clanging Scales",
+      "Close Combat",
+      "Poison Jab",
+      "Stealth Rock"
+    ]
+  },
+  "tapu-koko": {
+    "moves": [
+      "Timid Nature",
+      "Thunderbolt",
+      "Dazzling Gleam",
+      "Hidden Power Ice / Volt Switch"
+    ]
+  },
+  "tapu-lele": {
+    "moves": [
+      "Psychic",
+      "Moonblast",
+      "Psyshock",
+      "Hidden Power Fire"
+    ]
+  },
+  "tapu-bulu": {
+    "moves": [
+      "Wood Hammer",
+      "Horn Leech",
+      "Superpower",
+      "Stone Edge"
+    ]
+  },
+  "tapu-fini": {
+    "moves": [
+      "Surf",
+      "Moonblast",
+      "Defog",
+      "Taunt"
+    ]
+  },
+  "cosmog": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "cosmoem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "solgaleo": {
+    "moves": [
+      "Sunsteel Strike",
+      "Flare Blitz",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "lunala": {
+    "moves": [
+      "Calm Mind",
+      "Moongeist Beam",
+      "Psyshock",
+      "Focus Blast"
+    ]
+  },
+  "nihilego": {
+    "moves": [
+      "Sludge Wave",
+      "Thunderbolt",
+      "Grass Knot",
+      "Stealth Rock"
+    ]
+  },
+  "buzzwole": {
+    "moves": [
+      "Hammer Arm",
+      "Toxic",
+      "Roost",
+      "Earthquake"
+    ]
+  },
+  "pheromosa": {
+    "moves": [
+      "U-turn",
+      "Low Kick",
+      "Ice Beam",
+      "Throat Chop"
+    ]
+  },
+  "xurkitree": {
+    "moves": [
+      "Thunderbolt",
+      "Hidden Power Ice",
+      "Energy Ball",
+      "Tail Glow"
+    ]
+  },
+  "celesteela": {
+    "moves": [
+      "Leech Seed",
+      "Protect",
+      "Heavy Slam",
+      "Flamethrower"
+    ]
+  },
+  "kartana": {
+    "moves": [
+      "Swords Dance",
+      "Leaf Blade",
+      "Sacred Sword",
+      "Giga Impact"
+    ]
+  },
+  "guzzlord": {
+    "moves": [
+      "Draco Meteor",
+      "Dark Pulse",
+      "Fire Blast",
+      "Sludge Bomb"
+    ]
+  },
+  "necrozma": {
+    "moves": [
+      "Photon Geyser",
+      "Heat Wave",
+      "Calm Mind",
+      "Moonlight"
+    ]
+  },
+  "magearna": {
+    "moves": [
+      "Fleur Cannon",
+      "Ice Beam",
+      "Hidden Power Fire",
+      "Volt Switch"
+    ]
+  },
+  "marshadow": {
+    "moves": [
+      "Spectral Thief",
+      "Close Combat",
+      "Shadow Sneak",
+      "Hidden Power Ice"
+    ]
+  },
+  "poipole": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "naganadel": {
+    "moves": [
+      "Draco Meteor",
+      "Sludge Wave",
+      "Nasty Plot",
+      "Fire Blast"
+    ]
+  },
+  "stakataka": {
+    "moves": [
+      "Lonely Nature",
+      "Trick Room",
+      "Gyro Ball",
+      "Stone Edge / Earthquake"
+    ]
+  },
+  "blacephalon": {
+    "moves": [
+      "Fire Blast",
+      "Shadow Ball",
+      "Hidden Power Ground",
+      "Trick"
+    ]
+  },
+  "zeraora": {
+    "moves": [
+      "Plasma Fists",
+      "Close Combat",
+      "Grass Knot",
+      "Knock Off"
+    ]
+  },
+  "meltan": {
+    "moves": [
+      "Bold Nature",
+      "Acid Armor",
+      "Rest",
+      "Flash Cannon / Thunderbolt"
+    ]
+  },
+  "melmetal": {
+    "moves": [
+      "Double Iron Bash",
+      "Earthquake",
+      "Toxic",
+      "Protect"
+    ]
+  },
+  "grookey": {
+    "moves": [
+      "Jolly Nature",
+      "Grassy Glide",
+      "Wood Hammer",
+      "Knock Off / U-turn"
+    ]
+  },
+  "thwackey": {
+    "moves": [
+      "Grassy Glide",
+      "Knock Off",
+      "U-turn",
+      "Wood Hammer"
+    ]
+  },
+  "rillaboom": {
+    "moves": [
+      "Adamant Nature",
+      "Grassy Glide",
+      "Wood Hammer",
+      "U-turn / Knock Off"
+    ]
+  },
+  "scorbunny": {
+    "moves": [
+      "Blaze Kick",
+      "Gunk Shot",
+      "U-turn",
+      "High Jump Kick"
+    ]
+  },
+  "raboot": {
+    "moves": [
+      "Flare Blitz",
+      "High Jump Kick",
+      "U-turn",
+      "Sucker Punch"
+    ]
+  },
+  "cinderace": {
+    "moves": [
+      "Jolly Nature",
+      "Pyro Ball",
+      "U-turn",
+      "Court Change / Will-O-Wisp"
+    ]
+  },
+  "sobble": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "drizzile": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "inteleon": {
+    "moves": [
+      "Timid Nature",
+      "Hydro Pump",
+      "Ice Beam",
+      "Dark Pulse / U-turn"
+    ]
+  },
+  "skwovet": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "greedent": {
+    "moves": [
+      "Brave Nature",
+      "Belly Drum",
+      "Facade",
+      "Earthquake / Crunch"
+    ]
+  },
+  "rookidee": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "corvisquire": {
+    "moves": [
+      "Defog",
+      "Roost",
+      "Taunt",
+      "Brave Bird"
+    ]
+  },
+  "corviknight": {
+    "moves": [
+      "Impish Nature",
+      "Brave Bird",
+      "Defog",
+      "U-turn / Roost"
+    ]
+  },
+  "blipbug": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dottler": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "orbeetle": {
+    "moves": [
+      "Bold Nature",
+      "Agility",
+      "Iron Defense",
+      "Body Press / Stored Power"
+    ]
+  },
+  "nickit": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "thievul": {
+    "moves": [
+      "Dark Pulse",
+      "Psychic",
+      "Parting Shot",
+      "Burning Jealousy"
+    ]
+  },
+  "gossifleur": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "eldegoss": {
+    "moves": [
+      "Giga Drain",
+      "Rapid Spin",
+      "Sleep Powder",
+      "Leech Seed"
+    ]
+  },
+  "wooloo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dubwool": {
+    "moves": [
+      "Cotton Guard",
+      "Body Press",
+      "Rest",
+      "Sleep Talk"
+    ]
+  },
+  "chewtle": {
+    "moves": [
+      "Jolly Nature",
+      "Shell Smash",
+      "Liquidation",
+      "Crunch / Ice Fang"
+    ]
+  },
+  "drednaw": {
+    "moves": [
+      "Jolly Nature",
+      "Shell Smash",
+      "Liquidation",
+      "Stone Edge / Crunch"
+    ]
+  },
+  "yamper": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "boltund": {
+    "moves": [
+      "Thunder Fang",
+      "Volt Switch",
+      "Fire Fang",
+      "Crunch"
+    ]
+  },
+  "rolycoly": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "carkol": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "coalossal": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Calm Nature",
+      "Rapid Spin",
+      "Stealth Rock / Flamethrower / Earth Power"
+    ]
+  },
+  "applin": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "flapple": {
+    "moves": [
+      "Grav Apple",
+      "Draco Meteor",
+      "Sucker Punch",
+      "U-turn"
+    ]
+  },
+  "appletun": {
+    "moves": [
+      "Sassy Nature",
+      "Apple Acid",
+      "Dragon Pulse",
+      "Dragon Tail / Recover"
+    ]
+  },
+  "silicobra": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sandaconda": {
+    "moves": [
+      "Impish Nature",
+      "Stealth Rock",
+      "Earthquake",
+      "Rock Blast / Rest"
+    ]
+  },
+  "cramorant": {
+    "moves": [
+      "Bold Nature",
+      "Defog",
+      "Roost",
+      "Surf / Brave Bird"
+    ]
+  },
+  "arrokuda": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "barraskewda": {
+    "moves": [
+      "Jolly Nature",
+      "Flip Turn",
+      "Close Combat",
+      "Liquidation / Psychic Fangs"
+    ]
+  },
+  "toxel": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "toxtricity-amped": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sizzlipede": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "centiskorch": {
+    "moves": [
+      "Fire Lash",
+      "Leech Life",
+      "Power Whip",
+      "Knock Off"
+    ]
+  },
+  "clobbopus": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "grapploct": {
+    "moves": [
+      "Octolock",
+      "Drain Punch",
+      "Ice Punch",
+      "Substitute"
+    ]
+  },
+  "sinistea": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "polteageist": {
+    "moves": [
+      "Modest Nature",
+      "Shell Smash",
+      "Shadow Ball",
+      "Stored Power / Tera Blast"
+    ]
+  },
+  "hatenna": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "hattrem": {
+    "moves": [
+      "Modest Nature",
+      "Healing Wish",
+      "Psychic",
+      "Mystical Fire / Nuzzle"
+    ]
+  },
+  "hatterene": {
+    "moves": [
+      "Bold Nature",
+      "Psychic Noise",
+      "Draining Kiss",
+      "Pain Split / Nuzzle"
+    ]
+  },
+  "impidimp": {
+    "moves": [
+      "Bold Nature",
+      "Reflect",
+      "Light Screen",
+      "Parting Shot / Dazzling Gleam"
+    ]
+  },
+  "morgrem": {
+    "moves": [
+      "Reflect",
+      "Light Screen",
+      "Parting Shot",
+      "Taunt"
+    ]
+  },
+  "grimmsnarl": {
+    "moves": [
+      "Careful Nature",
+      "Parting Shot",
+      "Thunder Wave",
+      "Spirit Break / Sucker Punch"
+    ]
+  },
+  "obstagoon": {
+    "moves": [
+      "Knock Off",
+      "Facade",
+      "Ice Punch",
+      "Switcheroo"
+    ]
+  },
+  "perrserker": {
+    "moves": [
+      "Adamant Nature",
+      "Stealth Rock",
+      "Iron Head",
+      "Knock Off / U-turn"
+    ]
+  },
+  "cursola": {
+    "moves": [
+      "Shadow Ball",
+      "Power Gem",
+      "Earth Power",
+      "Hex"
+    ]
+  },
+  "sirfetchd": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "mr-rime": {
+    "moves": [
+      "Rapid Spin",
+      "Slack Off",
+      "Freeze-Dry",
+      "Future Sight"
+    ]
+  },
+  "runerigus": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Poltergeist",
+      "Body Press"
+    ]
+  },
+  "milcery": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "alcremie": {
+    "moves": [
+      "Bold Nature",
+      "Calm Mind",
+      "Acid Armor",
+      "Draining Kiss / Stored Power"
+    ]
+  },
+  "falinks": {
+    "moves": [
+      "Close Combat",
+      "First Impression",
+      "Throat Chop",
+      "Rock Slide"
+    ]
+  },
+  "pincurchin": {
+    "moves": [
+      "Tera Type: Water",
+      "Bold Nature",
+      "Discharge",
+      "Scald / Spikes / Recover"
+    ]
+  },
+  "snom": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "frosmoth": {
+    "moves": [
+      "Modest Nature",
+      "Defog",
+      "U-turn",
+      "Ice Beam / Stun Spore"
+    ]
+  },
+  "stonjourner": {
+    "moves": [
+      "Stone Edge",
+      "Heat Crash",
+      "Earthquake",
+      "Superpower"
+    ]
+  },
+  "eiscue-ice": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "indeedee-male": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "morpeko-full-belly": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "cufant": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "copperajah": {
+    "moves": [
+      "Careful Nature",
+      "Stealth Rock",
+      "Iron Head",
+      "Knock Off / Whirlwind"
+    ]
+  },
+  "dracozolt": {
+    "moves": [
+      "Naughty Nature",
+      "Bolt Beak",
+      "Draco Meteor",
+      "Substitute / Protect"
+    ]
+  },
+  "arctozolt": {
+    "moves": [
+      "Bolt Beak",
+      "Blizzard",
+      "Freeze-Dry",
+      "Substitute"
+    ]
+  },
+  "dracovish": {
+    "moves": [
+      "Adamant Nature",
+      "Fishious Rend",
+      "Dragon Rush",
+      "Psychic Fangs / Crunch"
+    ]
+  },
+  "arctovish": {
+    "moves": [
+      "Fishious Rend",
+      "Freeze-Dry",
+      "Icicle Crash",
+      "Substitute"
+    ]
+  },
+  "duraludon": {
+    "moves": [
+      "Timid Nature",
+      "Flash Cannon",
+      "Draco Meteor",
+      "Body Press / Stealth Rock"
+    ]
+  },
+  "dreepy": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "drakloak": {
+    "moves": [
+      "Draco Meteor",
+      "Hex",
+      "Thunder Wave",
+      "U-turn"
+    ]
+  },
+  "dragapult": {
+    "moves": [
+      "Naive Nature",
+      "Dragon Darts",
+      "Hex",
+      "Will-O-Wisp / U-turn"
+    ]
+  },
+  "zacian": {
+    "moves": [
+      "Jolly Nature",
+      "Play Rough",
+      "Crunch",
+      "Wild Charge / Close Combat"
+    ]
+  },
+  "zamazenta": {
+    "moves": [
+      "Jolly Nature",
+      "Iron Defense",
+      "Body Press",
+      "Crunch / Roar"
+    ]
+  },
+  "eternatus": {
+    "moves": [
+      "Timid Nature",
+      "Dynamax Cannon",
+      "Sludge Bomb",
+      "Fire Blast / Recover"
+    ]
+  },
+  "kubfu": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "urshifu-single-strike": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "zarude": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Knock Off",
+      "Trailblaze / Jungle Healing"
+    ]
+  },
+  "regieleki": {
+    "moves": [
+      "Jolly Nature",
+      "Reflect",
+      "Light Screen",
+      "Explosion / Rapid Spin"
+    ]
+  },
+  "regidrago": {
+    "moves": [
+      "Tera Type: Steel",
+      "Timid Nature",
+      "Dragon Energy",
+      "Draco Meteor / Earth Power / Tera Blast"
+    ]
+  },
+  "glastrier": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Icicle Crash",
+      "Close Combat / High Horsepower"
+    ]
+  },
+  "spectrier": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Nasty Plot",
+      "Substitute / Shadow Ball / Draining Kiss"
+    ]
+  },
+  "calyrex": {
+    "moves": [
+      "Modest Nature",
+      "Agility",
+      "Calm Mind",
+      "Giga Drain / Stored Power"
+    ]
+  },
+  "wyrdeer": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "kleavor": {
+    "moves": [
+      "Jolly Nature",
+      "Stone Axe",
+      "X-Scissor",
+      "Swords Dance / Close Combat"
+    ]
+  },
+  "ursaluna": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Facade",
+      "Headlong Rush / Fire Punch"
+    ]
+  },
+  "basculegion-male": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sneasler": {
+    "moves": [
+      "Close Combat",
+      "Dire Claw",
+      "Throat Chop",
+      "U-turn"
+    ]
+  },
+  "overqwil": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Gunk Shot",
+      "Throat Chop / Scale Shot"
+    ]
+  },
+  "enamorus-incarnate": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sprigatito": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "floragato": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "meowscarada": {
+    "moves": [
+      "Jolly Nature",
+      "Knock Off",
+      "Flower Trick",
+      "Triple Axel / U-turn"
+    ]
+  },
+  "fuecoco": {
+    "moves": [
+      "Calm Nature",
+      "Will-O-Wisp",
+      "Flamethrower",
+      "Slack Off / Roar"
+    ]
+  },
+  "crocalor": {
+    "moves": [
+      "Flamethrower",
+      "Will-O-Wisp",
+      "Roar",
+      "Slack Off"
+    ]
+  },
+  "skeledirge": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Bold Nature",
+      "Torch Song",
+      "Hex / Will-O-Wisp / Slack Off"
+    ]
+  },
+  "quaxly": {
+    "moves": [
+      "Adamant Nature",
+      "Rapid Spin",
+      "Roost",
+      "Liquidation / Aqua Jet"
+    ]
+  },
+  "quaxwell": {
+    "moves": [
+      "Rapid Spin",
+      "Flip Turn",
+      "Roost",
+      "Encore"
+    ]
+  },
+  "quaquaval": {
+    "moves": [
+      "Adamant Nature",
+      "Close Combat",
+      "Aqua Step",
+      "Knock Off / Rapid Spin"
+    ]
+  },
+  "lechonk": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "oinkologne-male": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tarountula": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "spidops": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "nymble": {
+    "moves": [
+      "Adamant Nature",
+      "First Impression",
+      "Leech Life",
+      "Sucker Punch / U-turn"
+    ]
+  },
+  "lokix": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Knock Off",
+      "Sucker Punch / Protect"
+    ]
+  },
+  "pawmi": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pawmo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pawmot": {
+    "moves": [
+      "Jolly Nature",
+      "Double Shock",
+      "Close Combat",
+      "Knock Off / Mach Punch"
+    ]
+  },
+  "tandemaus": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "maushold-family-of-four": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "fidough": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dachsbun": {
+    "moves": [
+      "Careful Nature",
+      "Wish",
+      "Protect",
+      "Play Rough / Roar"
+    ]
+  },
+  "smoliv": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dolliv": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "arboliva": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Modest Nature",
+      "Leaf Storm",
+      "Hyper Voice / Earth Power / Alluring Voice"
+    ]
+  },
+  "squawkabilly-green-plumage": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "nacli": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "naclstack": {
+    "moves": [
+      "Stealth Rock",
+      "Salt Cure",
+      "Recover",
+      "Body Press"
+    ]
+  },
+  "garganacl": {
+    "moves": [
+      "Careful Nature",
+      "Curse",
+      "Salt Cure",
+      "Recover / Earthquake"
+    ]
+  },
+  "charcadet": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "armarouge": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Armor Cannon",
+      "Psyshock / Energy Ball / Calm Mind"
+    ]
+  },
+  "ceruledge": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Bitter Blade",
+      "Shadow Sneak / Poltergeist"
+    ]
+  },
+  "tadbulb": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "bellibolt": {
+    "moves": [
+      "Bold Nature",
+      "Volt Switch",
+      "Slack Off",
+      "Toxic / Muddy Water"
+    ]
+  },
+  "wattrel": {
+    "moves": [
+      "Tera Type: Dragon",
+      "Timid Nature",
+      "Hurricane",
+      "Discharge / Volt Switch / Roost"
+    ]
+  },
+  "kilowattrel": {
+    "moves": [
+      "Timid Nature",
+      "Air Slash",
+      "Thunderbolt",
+      "U-turn / Roost"
+    ]
+  },
+  "maschiff": {
+    "moves": [
+      "Jolly Nature",
+      "Crunch",
+      "Play Rough",
+      "Fire Fang / Psychic Fangs"
+    ]
+  },
+  "mabosstiff": {
+    "moves": [
+      "Jolly Nature",
+      "Crunch",
+      "Play Rough",
+      "Psychic Fangs / Destiny Bond"
+    ]
+  },
+  "shroodle": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Gunk Shot",
+      "Tera Blast / Substitute"
+    ]
+  },
+  "grafaiai": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Acrobatics",
+      "Low Kick / Encore"
+    ]
+  },
+  "bramblin": {
+    "moves": [
+      "Jolly Nature",
+      "Rapid Spin",
+      "Power Whip",
+      "Shadow Sneak / Strength Sap"
+    ]
+  },
+  "brambleghast": {
+    "moves": [
+      "Jolly Nature",
+      "Poltergeist",
+      "Power Whip",
+      "Rapid Spin / Strength Sap"
+    ]
+  },
+  "toedscool": {
+    "moves": [
+      "Timid Nature",
+      "Rapid Spin",
+      "Knock Off",
+      "Earth Power / Giga Drain"
+    ]
+  },
+  "toedscruel": {
+    "moves": [
+      "Timid Nature",
+      "Leaf Storm",
+      "Earth Power",
+      "Rapid Spin / Knock Off"
+    ]
+  },
+  "klawf": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "capsakid": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "scovillain": {
+    "moves": [
+      "Modest Nature",
+      "Flamethrower",
+      "Fire Blast",
+      "Solar Beam / Giga Drain"
+    ]
+  },
+  "rellor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "rabsca": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "flittle": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "espathra": {
+    "moves": [
+      "Bold Nature",
+      "Calm Mind",
+      "Stored Power",
+      "Dazzling Gleam / Roost"
+    ]
+  },
+  "tinkatink": {
+    "moves": [
+      "Calm Nature",
+      "Draining Kiss",
+      "Knock Off",
+      "Thunder Wave / Stealth Rock"
+    ]
+  },
+  "tinkatuff": {
+    "moves": [
+      "Stealth Rock",
+      "Knock Off",
+      "Thunder Wave",
+      "Encore"
+    ]
+  },
+  "tinkaton": {
+    "moves": [
+      "Careful Nature",
+      "Stealth Rock",
+      "Gigaton Hammer",
+      "Knock Off / Encore"
+    ]
+  },
+  "wiglett": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wugtrio": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "bombirdier": {
+    "moves": [
+      "Adamant Nature",
+      "Knock Off",
+      "Brave Bird",
+      "Sucker Punch / Taunt"
+    ]
+  },
+  "finizen": {
+    "moves": [
+      "Tera Type: Normal",
+      "Timid Nature",
+      "Surf",
+      "Boomburst / Ice Beam / Protect"
+    ]
+  },
+  "palafin-zero": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "varoom": {
+    "moves": [
+      "Sassy Nature",
+      "Parting Shot",
+      "Poison Jab",
+      "Toxic Spikes / Thief"
+    ]
+  },
+  "revavroom": {
+    "moves": [
+      "Adamant Nature",
+      "Shift Gear",
+      "Gunk Shot",
+      "High Horsepower / Temper Flare"
+    ]
+  },
+  "cyclizar": {
+    "moves": [
+      "Timid Nature",
+      "Rapid Spin",
+      "Knock Off",
+      "U-turn / Draco Meteor"
+    ]
+  },
+  "orthworm": {
+    "moves": [
+      "Impish Nature",
+      "Stealth Rock",
+      "Heavy Slam",
+      "Body Press / Iron Defense"
+    ]
+  },
+  "glimmet": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Stealth Rock",
+      "Power Gem / Mud Shot / Sludge Bomb"
+    ]
+  },
+  "glimmora": {
+    "moves": [
+      "Timid Nature",
+      "Stealth Rock",
+      "Mortal Spin",
+      "Power Gem / Earth Power"
+    ]
+  },
+  "greavard": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "houndstone": {
+    "moves": [
+      "Tera Type: Water",
+      "Bold Nature",
+      "Night Shade",
+      "Body Press / Will-O-Wisp / Protect"
+    ]
+  },
+  "flamigo": {
+    "moves": [
+      "Jolly Nature",
+      "Close Combat",
+      "Brave Bird",
+      "U-turn / Roost"
+    ]
+  },
+  "cetoddle": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "cetitan": {
+    "moves": [
+      "Belly Drum",
+      "Icicle Crash",
+      "Ice Shard",
+      "Earthquake"
+    ]
+  },
+  "veluza": {
+    "moves": [
+      "Adamant Nature",
+      "Fillet Away",
+      "Aqua Cutter",
+      "Psycho Cut / Aqua Jet"
+    ]
+  },
+  "dondozo": {
+    "moves": [
+      "Impish Nature",
+      "Waterfall",
+      "Curse",
+      "Rest / Sleep Talk"
+    ]
+  },
+  "tatsugiri-curly": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "annihilape": {
+    "moves": [
+      "Careful Nature",
+      "Bulk Up",
+      "Taunt",
+      "Drain Punch / Rage Fist"
+    ]
+  },
+  "clodsire": {
+    "moves": [
+      "Careful Nature",
+      "Earthquake",
+      "Recover",
+      "Poison Jab / Stealth Rock"
+    ]
+  },
+  "farigiraf": {
+    "moves": [
+      "Tera Type: Fire",
+      "Timid Nature",
+      "Agility",
+      "Nasty Plot / Psyshock / Tera Blast"
+    ]
+  },
+  "dudunsparce-two-segment": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "kingambit": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Sucker Punch",
+      "Kowtow Cleave / Iron Head"
+    ]
+  },
+  "great-tusk": {
+    "moves": [
+      "Jolly Nature",
+      "Headlong Rush",
+      "Ice Spinner",
+      "Rapid Spin / Stealth Rock"
+    ]
+  },
+  "scream-tail": {
+    "moves": [
+      "Timid Nature",
+      "Calm Mind",
+      "Boomburst",
+      "Fire Blast / Psychic Noise"
+    ]
+  },
+  "brute-bonnet": {
+    "moves": [
+      "Adamant Nature",
+      "Sucker Punch",
+      "Close Combat",
+      "Seed Bomb / Crunch"
+    ]
+  },
+  "flutter-mane": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Shadow Ball",
+      "Moonblast / Psyshock / Power Gem"
+    ]
+  },
+  "slither-wing": {
+    "moves": [
+      "Jolly Nature",
+      "First Impression",
+      "Close Combat",
+      "Flare Blitz / U-turn"
+    ]
+  },
+  "sandy-shocks": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Earth Power",
+      "Volt Switch / Power Gem / Spikes"
+    ]
+  },
+  "iron-treads": {
+    "moves": [
+      "Timid Nature",
+      "Stealth Rock",
+      "Steel Beam",
+      "Earth Power / Rapid Spin"
+    ]
+  },
+  "iron-bundle": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Freeze-Dry",
+      "Hydro Pump / Ice Beam / Taunt"
+    ]
+  },
+  "iron-hands": {
+    "moves": [
+      "Adamant Nature",
+      "Swords Dance",
+      "Drain Punch",
+      "Thunder Punch / Ice Punch"
+    ]
+  },
+  "iron-jugulis": {
+    "moves": [
+      "Tera Type: Ground",
+      "Timid Nature",
+      "Hurricane",
+      "Dark Pulse / Earth Power / Taunt"
+    ]
+  },
+  "iron-moth": {
+    "moves": [
+      "Timid Nature",
+      "Fiery Dance",
+      "Sludge Wave",
+      "Dazzling Gleam / Substitute"
+    ]
+  },
+  "iron-thorns": {
+    "moves": [
+      "Dragon Dance",
+      "Earthquake",
+      "Pin Missile",
+      "Rock Blast"
+    ]
+  },
+  "frigibax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "arctibax": {
+    "moves": [
+      "Swords Dance",
+      "Icicle Crash",
+      "Dragon Claw",
+      "Iron Head"
+    ]
+  },
+  "baxcalibur": {
+    "moves": [
+      "Adamant Nature",
+      "Icicle Spear",
+      "Glaive Rush",
+      "Earthquake / Dragon Dance"
+    ]
+  },
+  "gimmighoul": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "gholdengo": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Nasty Plot",
+      "Shadow Ball / Make It Rain / Focus Blast"
+    ]
+  },
+  "wo-chien": {
+    "moves": [
+      "Impish Nature",
+      "Leech Seed",
+      "Protect",
+      "Knock Off / Ruination"
+    ]
+  },
+  "chien-pao": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Icicle Crash",
+      "Crunch / Sucker Punch"
+    ]
+  },
+  "ting-lu": {
+    "moves": [
+      "Careful Nature",
+      "Stealth Rock",
+      "Earthquake",
+      "Ruination / Whirlwind"
+    ]
+  },
+  "chi-yu": {
+    "moves": [
+      "Modest Nature",
+      "Overheat",
+      "Flamethrower",
+      "Fire Blast / Dark Pulse"
+    ]
+  },
+  "roaring-moon": {
+    "moves": [
+      "Adamant Nature",
+      "Dragon Dance",
+      "Acrobatics",
+      "Crunch / Roost"
+    ]
+  },
+  "iron-valiant": {
+    "moves": [
+      "Naive Nature",
+      "Moonblast",
+      "Close Combat",
+      "Knock Off / Encore"
+    ]
+  },
+  "koraidon": {
+    "moves": [
+      "Jolly Nature",
+      "Low Kick",
+      "Outrage",
+      "U-turn / Flare Blitz"
+    ]
+  },
+  "miraidon": {
+    "moves": [
+      "Timid Nature",
+      "Draco Meteor",
+      "Electro Drift",
+      "U-turn / Taunt"
+    ]
+  },
+  "walking-wake": {
+    "moves": [
+      "Timid Nature",
+      "Hydro Steam",
+      "Draco Meteor",
+      "Flamethrower / Dragon Pulse"
+    ]
+  },
+  "iron-leaves": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Leaf Blade",
+      "Psyblade / Close Combat"
+    ]
+  },
+  "dipplin": {
+    "moves": [
+      "Relaxed Nature",
+      "Growth",
+      "Recover",
+      "Dragon Tail / Giga Drain"
+    ]
+  },
+  "poltchageist": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "sinistcha": {
+    "moves": [
+      "Tera Type: Poison",
+      "Bold Nature",
+      "Calm Mind",
+      "Hex / Stun Spore / Strength Sap"
+    ]
+  },
+  "okidogi": {
+    "moves": [
+      "Adamant Nature",
+      "Drain Punch",
+      "Gunk Shot",
+      "Knock Off / Ice Punch"
+    ]
+  },
+  "munkidori": {
+    "moves": [
+      "Timid Nature",
+      "Sludge Bomb",
+      "Psychic",
+      "U-turn / Trick"
+    ]
+  },
+  "fezandipiti": {
+    "moves": [
+      "Bold Nature",
+      "Beat Up",
+      "Heat Wave",
+      "Roost / U-turn"
+    ]
+  },
+  "ogerpon": {
+    "moves": [
+      "Jolly Nature",
+      "Ivy Cudgel",
+      "Knock Off",
+      "U-turn / Encore"
+    ]
+  },
+  "archaludon": {
+    "moves": [
+      "Timid Nature",
+      "Draco Meteor",
+      "Thunder Wave",
+      "Flash Cannon / Thunderbolt"
+    ]
+  },
+  "hydrapple": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Modest Nature",
+      "Nasty Plot",
+      "Draco Meteor / Giga Drain / Earth Power"
+    ]
+  },
+  "gouging-fire": {
+    "moves": [
+      "Jolly Nature",
+      "Heat Crash",
+      "Breaking Swipe",
+      "Howl / Burning Bulwark"
+    ]
+  },
+  "raging-bolt": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Modest Nature",
+      "Calm Mind",
+      "Thunderclap / Dragon Pulse / Thunderbolt"
+    ]
+  },
+  "iron-boulder": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Mighty Cleave",
+      "Earthquake / Close Combat"
+    ]
+  },
+  "iron-crown": {
+    "moves": [
+      "Tera Type: Fighting",
+      "Timid Nature",
+      "Tachyon Cutter",
+      "Future Sight / Focus Blast / Volt Switch"
+    ]
+  },
+  "terapagos": {
+    "moves": [
+      "Impish Nature",
+      "Rapid Spin",
+      "Stealth Rock",
+      "Toxic / Roar"
+    ]
+  },
+  "pecharunt": {
+    "moves": [
+      "Tera Type: Dark",
+      "Bold Nature",
+      "Malignant Chain",
+      "Shadow Ball / Parting Shot / Recover"
+    ]
+  },
+  "deoxys-attack": {
+    "moves": [
+      "Psycho Boost",
+      "Ice Beam",
+      "Superpower",
+      "Pursuit"
+    ]
+  },
+  "deoxys-defense": {
+    "moves": [
+      "Bold Nature",
+      "Spikes",
+      "Taunt",
+      "Recover / Toxic"
+    ]
+  },
+  "deoxys-speed": {
+    "moves": [
+      "Stealth Rock",
+      "Taunt",
+      "Skill Swap",
+      "Spikes"
+    ]
+  },
+  "wormadam-sandy": {
+    "moves": [
+      "Earthquake",
+      "Stealth Rock",
+      "Toxic",
+      "Protect"
+    ]
+  },
+  "wormadam-trash": {
+    "moves": [
+      "Stealth Rock",
+      "Toxic",
+      "Protect",
+      "Iron Head"
+    ]
+  },
+  "shaymin-sky": {
+    "moves": [
+      "Seed Flare",
+      "Air Slash",
+      "Earth Power",
+      "Healing Wish"
+    ]
+  },
+  "giratina-origin": {
+    "moves": [
+      "Defog",
+      "Hex",
+      "Dragon Pulse",
+      "Thunder Wave"
+    ]
+  },
+  "rotom-heat": {
+    "moves": [
+      "Defog",
+      "Volt Switch",
+      "Overheat",
+      "Toxic"
+    ]
+  },
+  "rotom-wash": {
+    "moves": [
+      "Volt Switch",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Defog"
+    ]
+  },
+  "rotom-frost": {
+    "moves": [
+      "Blizzard",
+      "Volt Switch",
+      "Defog",
+      "Thunderbolt"
+    ]
+  },
+  "rotom-fan": {
+    "moves": [
+      "Volt Switch",
+      "Air Slash",
+      "Will-O-Wisp",
+      "Defog"
+    ]
+  },
+  "rotom-mow": {
+    "moves": [
+      "Defog",
+      "Leaf Storm",
+      "Volt Switch",
+      "Will-O-Wisp"
+    ]
+  },
+  "castform-sunny": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Thunder"
+    ]
+  },
+  "castform-rainy": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Thunder"
+    ]
+  },
+  "castform-snowy": {
+    "moves": [
+      "Rain Dance",
+      "Hydro Pump",
+      "Ice Beam",
+      "Thunder"
+    ]
+  },
+  "basculin-blue-striped": {
+    "moves": [
+      "Jolly Nature",
+      "Wave Crash",
+      "Flip Turn",
+      "Psychic Fangs / Ice Fang"
+    ]
+  },
+  "darmanitan-zen": {
+    "moves": [
+      "Flare Blitz",
+      "U-turn",
+      "Earthquake",
+      "Rock Slide"
+    ]
+  },
+  "meloetta-pirouette": {
+    "moves": [
+      "Celebrate",
+      "Psychic",
+      "Focus Blast",
+      "Hyper Voice"
+    ]
+  },
+  "tornadus-therian": {
+    "moves": [
+      "Hurricane",
+      "Knock Off",
+      "U-turn",
+      "Defog"
+    ]
+  },
+  "thundurus-therian": {
+    "moves": [
+      "Thunderbolt",
+      "Hidden Power Ice",
+      "Focus Blast",
+      "Nasty Plot"
+    ]
+  },
+  "landorus-therian": {
+    "moves": [
+      "Earthquake",
+      "U-turn",
+      "Stone Edge",
+      "Defog"
+    ]
+  },
+  "kyurem-black": {
+    "moves": [
+      "Freeze Shock",
+      "Fusion Bolt",
+      "Ice Beam",
+      "Roost"
+    ]
+  },
+  "kyurem-white": {
+    "moves": [
+      "Ice Beam",
+      "Draco Meteor",
+      "Fusion Flare",
+      "Roost"
+    ]
+  },
+  "keldeo-resolute": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "meowstic-female": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "aegislash-blade": {
+    "moves": [
+      "Sassy Nature",
+      "King's Shield",
+      "Toxic",
+      "Gyro Ball / Shadow Ball"
+    ]
+  },
+  "pumpkaboo-small": {
+    "moves": [
+      "Trick-or-Treat",
+      "Shadow Ball",
+      "Fire Blast",
+      "Giga Drain"
+    ]
+  },
+  "pumpkaboo-large": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pumpkaboo-super": {
+    "moves": [
+      "Giga Drain",
+      "Synthesis",
+      "Will-O-Wisp",
+      "Fire Blast"
+    ]
+  },
+  "gourgeist-small": {
+    "moves": [
+      "Substitute",
+      "Leech Seed",
+      "Will-O-Wisp",
+      "Phantom Force"
+    ]
+  },
+  "gourgeist-large": {
+    "moves": [
+      "Seed Bomb",
+      "Foul Play",
+      "Will-O-Wisp",
+      "Synthesis"
+    ]
+  },
+  "gourgeist-super": {
+    "moves": [
+      "Foul Play",
+      "Synthesis",
+      "Will-O-Wisp",
+      "Leech Seed"
+    ]
+  },
+  "venusaur-mega": {
+    "moves": [
+      "Growth",
+      "Sludge Bomb",
+      "Giga Drain",
+      "Hidden Power Fire"
+    ]
+  },
+  "charizard-mega-x": {
+    "moves": [
+      "Dragon Dance",
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw"
+    ]
+  },
+  "charizard-mega-y": {
+    "moves": [
+      "Dragon Dance",
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw"
+    ]
+  },
+  "blastoise-mega": {
+    "moves": [
+      "Scald",
+      "Toxic",
+      "Rapid Spin",
+      "Refresh"
+    ]
+  },
+  "alakazam-mega": {
+    "moves": [
+      "Psychic",
+      "Focus Blast",
+      "Shadow Ball",
+      "Recover"
+    ]
+  },
+  "gengar-mega": {
+    "moves": [
+      "Shadow Ball",
+      "Sludge Wave",
+      "Icy Wind",
+      "Thunder"
+    ]
+  },
+  "kangaskhan-mega": {
+    "moves": [
+      "Fake Out",
+      "Seismic Toss",
+      "Shadow Claw",
+      "Body Slam"
+    ]
+  },
+  "pinsir-mega": {
+    "moves": [
+      "Swords Dance",
+      "X-Scissor",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "gyarados-mega": {
+    "moves": [
+      "Dragon Dance",
+      "Substitute",
+      "Crunch",
+      "Earthquake"
+    ]
+  },
+  "aerodactyl-mega": {
+    "moves": [
+      "Stone Edge",
+      "Earthquake",
+      "Pursuit",
+      "Roost"
+    ]
+  },
+  "mewtwo-mega-x": {
+    "moves": [
+      "Psystrike",
+      "Ice Beam",
+      "Fire Blast",
+      "Calm Mind"
+    ]
+  },
+  "mewtwo-mega-y": {
+    "moves": [
+      "Psystrike",
+      "Ice Beam",
+      "Fire Blast",
+      "Calm Mind"
+    ]
+  },
+  "ampharos-mega": {
+    "moves": [
+      "Thunderbolt",
+      "Focus Blast",
+      "Hidden Power Ice",
+      "Heal Bell"
+    ]
+  },
+  "scizor-mega": {
+    "moves": [
+      "Swords Dance",
+      "Bullet Punch",
+      "Roost",
+      "Knock Off"
+    ]
+  },
+  "heracross-mega": {
+    "moves": [
+      "Swords Dance",
+      "Close Combat",
+      "Rock Blast",
+      "Pin Missile"
+    ]
+  },
+  "houndoom-mega": {
+    "moves": [
+      "Nasty Plot",
+      "Fire Blast",
+      "Dark Pulse",
+      "Sludge Bomb"
+    ]
+  },
+  "tyranitar-mega": {
+    "moves": [
+      "Stealth Rock",
+      "Stone Edge",
+      "Pursuit",
+      "Fire Punch"
+    ]
+  },
+  "blaziken-mega": {
+    "moves": [
+      "Swords Dance",
+      "Flare Blitz",
+      "Low Kick",
+      "Stone Edge"
+    ]
+  },
+  "gardevoir-mega": {
+    "moves": [
+      "Psyshock",
+      "Moonblast",
+      "Will-O-Wisp",
+      "Healing Wish"
+    ]
+  },
+  "mawile-mega": {
+    "moves": [
+      "Swords Dance",
+      "Play Rough",
+      "Sucker Punch",
+      "Knock Off"
+    ]
+  },
+  "aggron-mega": {
+    "moves": [
+      "Stealth Rock",
+      "Heavy Slam",
+      "Earthquake",
+      "Toxic"
+    ]
+  },
+  "medicham-mega": {
+    "moves": [
+      "Fake Out",
+      "High Jump Kick",
+      "Ice Punch",
+      "Zen Headbutt"
+    ]
+  },
+  "manectric-mega": {
+    "moves": [
+      "Volt Switch",
+      "Overheat",
+      "Thunderbolt",
+      "Hidden Power Ice"
+    ]
+  },
+  "banette-mega": {
+    "moves": [
+      "Shadow Claw",
+      "Knock Off",
+      "Will-O-Wisp",
+      "Sucker Punch"
+    ]
+  },
+  "absol-mega": {
+    "moves": [
+      "Knock Off",
+      "Sucker Punch",
+      "Superpower",
+      "Pursuit"
+    ]
+  },
+  "garchomp-mega": {
+    "moves": [
+      "Swords Dance",
+      "Earthquake",
+      "Outrage",
+      "Stealth Rock"
+    ]
+  },
+  "lucario-mega": {
+    "moves": [
+      "Swords Dance",
+      "Meteor Mash",
+      "Close Combat",
+      "Bullet Punch"
+    ]
+  },
+  "abomasnow-mega": {
+    "moves": [
+      "Blizzard",
+      "Giga Drain",
+      "Focus Blast",
+      "Substitute"
+    ]
+  },
+  "floette-eternal": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "latias-mega": {
+    "moves": [
+      "Ice Beam",
+      "Hidden Power Ground",
+      "Thunder Wave",
+      "Roost"
+    ]
+  },
+  "latios-mega": {
+    "moves": [
+      "Psychic",
+      "Earthquake",
+      "Ice Beam",
+      "Roost"
+    ]
+  },
+  "swampert-mega": {
+    "moves": [
+      "Waterfall",
+      "Earthquake",
+      "Ice Punch",
+      "Stealth Rock"
+    ]
+  },
+  "sceptile-mega": {
+    "moves": [
+      "Leaf Storm",
+      "Giga Drain",
+      "Focus Blast",
+      "Hidden Power Ice"
+    ]
+  },
+  "sableye-mega": {
+    "moves": [
+      "Knock Off",
+      "Will-O-Wisp",
+      "Recover",
+      "Protect"
+    ]
+  },
+  "altaria-mega": {
+    "moves": [
+      "Dragon Dance",
+      "Return",
+      "Earthquake",
+      "Roost"
+    ]
+  },
+  "gallade-mega": {
+    "moves": [
+      "Swords Dance",
+      "Close Combat",
+      "Zen Headbutt",
+      "Knock Off"
+    ]
+  },
+  "audino-mega": {
+    "moves": [
+      "Wish",
+      "Protect",
+      "Heal Bell",
+      "Knock Off"
+    ]
+  },
+  "sharpedo-mega": {
+    "moves": [
+      "Crunch",
+      "Ice Fang",
+      "Earthquake",
+      "Protect"
+    ]
+  },
+  "slowbro-mega": {
+    "moves": [
+      "Scald",
+      "Psyshock",
+      "Slack Off",
+      "Ice Beam"
+    ]
+  },
+  "steelix-mega": {
+    "moves": [
+      "Brave Nature",
+      "Stealth Rock",
+      "Gyro Ball",
+      "Earthquake / Curse"
+    ]
+  },
+  "pidgeot-mega": {
+    "moves": [
+      "Hurricane",
+      "Heat Wave",
+      "U-turn",
+      "Roost"
+    ]
+  },
+  "glalie-mega": {
+    "moves": [
+      "Spikes",
+      "Double-Edge",
+      "Earthquake",
+      "Explosion"
+    ]
+  },
+  "diancie-mega": {
+    "moves": [
+      "Stealth Rock",
+      "Moonblast",
+      "Diamond Storm",
+      "Earth Power"
+    ]
+  },
+  "metagross-mega": {
+    "moves": [
+      "Meteor Mash",
+      "Ice Punch",
+      "Rock Slide",
+      "Bullet Punch"
+    ]
+  },
+  "kyogre-primal": {
+    "moves": [
+      "Water Spout",
+      "Calm Mind",
+      "Origin Pulse",
+      "Ice Beam"
+    ]
+  },
+  "groudon-primal": {
+    "moves": [
+      "Stealth Rock",
+      "Swords Dance",
+      "Precipice Blades",
+      "Rock Tomb"
+    ]
+  },
+  "rayquaza-mega": {
+    "moves": [
+      "Dragon Ascent",
+      "Dragon Dance",
+      "Extreme Speed",
+      "V-create"
+    ]
+  },
+  "pikachu-rock-star": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-belle": {
+    "moves": [
+      "Wild Charge",
+      "Icicle Crash",
+      "Knock Off",
+      "Volt Switch"
+    ]
+  },
+  "pikachu-pop-star": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-phd": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-libre": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-cosplay": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "hoopa-unbound": {
+    "moves": [
+      "Hyperspace Fury",
+      "Zen Headbutt",
+      "Gunk Shot",
+      "Fire Punch"
+    ]
+  },
+  "camerupt-mega": {
+    "moves": [
+      "Eruption",
+      "Fire Blast",
+      "Earth Power",
+      "Hidden Power Ice"
+    ]
+  },
+  "lopunny-mega": {
+    "moves": [
+      "Fake Out",
+      "Frustration",
+      "High Jump Kick",
+      "Quick Attack"
+    ]
+  },
+  "salamence-mega": {
+    "moves": [
+      "Dragon Dance",
+      "Double-Edge",
+      "Roost",
+      "Facade"
+    ]
+  },
+  "beedrill-mega": {
+    "moves": [
+      "U-turn",
+      "Poison Jab",
+      "Drill Run",
+      "Knock Off"
+    ]
+  },
+  "rattata-alola": {
+    "moves": [
+      "Double-Edge",
+      "Sucker Punch",
+      "U-turn",
+      "Pursuit"
+    ]
+  },
+  "raticate-alola": {
+    "moves": [
+      "Swords Dance",
+      "Double-Edge",
+      "Knock Off",
+      "Sucker Punch"
+    ]
+  },
+  "raticate-totem-alola": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-original-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-hoenn-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-sinnoh-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-unova-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-kalos-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-alola-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "raichu-alola": {
+    "moves": [
+      "Nasty Plot",
+      "Thunderbolt",
+      "Psyshock",
+      "Focus Blast"
+    ]
+  },
+  "sandshrew-alola": {
+    "moves": [
+      "Icicle Spear",
+      "Iron Head",
+      "Earthquake",
+      "Swords Dance"
+    ]
+  },
+  "sandslash-alola": {
+    "moves": [
+      "Swords Dance",
+      "Icicle Crash",
+      "Iron Head",
+      "Earthquake"
+    ]
+  },
+  "vulpix-alola": {
+    "moves": [
+      "Aurora Veil",
+      "Blizzard",
+      "Freeze-Dry",
+      "Hidden Power Ground"
+    ]
+  },
+  "ninetales-alola": {
+    "moves": [
+      "Aurora Veil",
+      "Freeze-Dry",
+      "Hypnosis",
+      "Hail"
+    ]
+  },
+  "diglett-alola": {
+    "moves": [
+      "Iron Head",
+      "Earthquake",
+      "Rock Slide",
+      "Substitute"
+    ]
+  },
+  "dugtrio-alola": {
+    "moves": [
+      "Earthquake",
+      "Iron Head",
+      "Substitute",
+      "Toxic"
+    ]
+  },
+  "meowth-alola": {
+    "moves": [
+      "Parting Shot",
+      "Dark Pulse",
+      "Hidden Power Fighting",
+      "Taunt"
+    ]
+  },
+  "persian-alola": {
+    "moves": [
+      "Nasty Plot",
+      "Dark Pulse",
+      "Parting Shot",
+      "Thunderbolt"
+    ]
+  },
+  "geodude-alola": {
+    "moves": [
+      "Rock Blast",
+      "Fire Punch",
+      "Superpower",
+      "Stealth Rock"
+    ]
+  },
+  "graveler-alola": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "golem-alola": {
+    "moves": [
+      "Stone Edge",
+      "Fire Punch",
+      "Earthquake",
+      "Volt Switch"
+    ]
+  },
+  "grimer-alola": {
+    "moves": [
+      "Pursuit",
+      "Knock Off",
+      "Poison Jab",
+      "Shadow Sneak"
+    ]
+  },
+  "muk-alola": {
+    "moves": [
+      "Pursuit",
+      "Gunk Shot",
+      "Knock Off",
+      "Fire Punch"
+    ]
+  },
+  "exeggutor-alola": {
+    "moves": [
+      "Draco Meteor",
+      "Leaf Storm",
+      "Flamethrower",
+      "Giga Drain"
+    ]
+  },
+  "marowak-alola": {
+    "moves": [
+      "Flare Blitz",
+      "Shadow Bone",
+      "Swords Dance",
+      "Low Kick"
+    ]
+  },
+  "greninja-battle-bond": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "greninja-ash": {
+    "moves": [
+      "Timid Nature",
+      "Hydro Pump",
+      "Dark Pulse",
+      "Ice Beam / Spikes"
+    ]
+  },
+  "zygarde-10-power-construct": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "zygarde-50-power-construct": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "zygarde-complete": {
+    "moves": [
+      "Dragon Dance",
+      "Thousand Arrows",
+      "Substitute",
+      "Dragon Tail"
+    ]
+  },
+  "gumshoos-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "vikavolt-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "oricorio-pom-pom": {
+    "moves": [
+      "Timid Nature",
+      "Calm Mind",
+      "Roost",
+      "Hurricane / Hidden Power Fighting"
+    ]
+  },
+  "oricorio-pau": {
+    "moves": [
+      "Calm Mind",
+      "Hurricane",
+      "Taunt",
+      "Roost"
+    ]
+  },
+  "oricorio-sensu": {
+    "moves": [
+      "Calm Mind",
+      "Roost",
+      "Taunt",
+      "Hurricane"
+    ]
+  },
+  "lycanroc-midnight": {
+    "moves": [
+      "Swords Dance",
+      "Stone Edge",
+      "Stomping Tantrum",
+      "Sucker Punch"
+    ]
+  },
+  "wishiwashi-school": {
+    "moves": [
+      "Sassy Nature",
+      "Rest",
+      "Sleep Talk",
+      "Scald / U-turn"
+    ]
+  },
+  "lurantis-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "salazzle-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-orange-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-yellow-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-green-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-blue-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-indigo-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-violet-meteor": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-red": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-orange": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-yellow": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-green": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-blue": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-indigo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "minior-violet": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "mimikyu-busted": {
+    "moves": [
+      "Swords Dance",
+      "Shadow Claw",
+      "Play Rough",
+      "Shadow Sneak"
+    ]
+  },
+  "mimikyu-totem-disguised": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "mimikyu-totem-busted": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "kommo-o-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "magearna-original": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-partner-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "marowak-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ribombee-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "rockruff-own-tempo": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "lycanroc-dusk": {
+    "moves": [
+      "Swords Dance",
+      "Stone Edge",
+      "Fire Fang",
+      "Sucker Punch"
+    ]
+  },
+  "araquanid-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "togedemaru-totem": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "necrozma-dusk": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "necrozma-dawn": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "necrozma-ultra": {
+    "moves": [
+      "Swords Dance",
+      "Photon Geyser",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "pikachu-starter": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "eevee-starter": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "pikachu-world-cap": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "meowth-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ponyta-galar": {
+    "moves": [
+      "Timid Nature",
+      "Morning Sun",
+      "Psychic",
+      "Dazzling Gleam / Mystical Fire"
+    ]
+  },
+  "rapidash-galar": {
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Dazzling Gleam",
+      "Morning Sun"
+    ]
+  },
+  "slowpoke-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "slowbro-galar": {
+    "moves": [
+      "Bold Nature",
+      "Slack Off",
+      "Psychic",
+      "Shell Side Arm / Toxic"
+    ]
+  },
+  "farfetchd-galar": {
+    "moves": [
+      "Close Combat",
+      "Brave Bird",
+      "Final Gambit",
+      "Knock Off"
+    ]
+  },
+  "weezing-galar": {
+    "moves": [
+      "Bold Nature",
+      "Sludge Bomb",
+      "Defog",
+      "Pain Split / Will-O-Wisp"
+    ]
+  },
+  "mr-mime-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "articuno-galar": {
+    "moves": [
+      "Timid Nature",
+      "Calm Mind",
+      "Psyshock",
+      "Hurricane / Recover"
+    ]
+  },
+  "zapdos-galar": {
+    "moves": [
+      "Jolly Nature",
+      "Close Combat",
+      "Brave Bird",
+      "Knock Off / U-turn"
+    ]
+  },
+  "moltres-galar": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Modest Nature",
+      "Nasty Plot",
+      "Fiery Wrath / Hurricane / Agility"
+    ]
+  },
+  "slowking-galar": {
+    "moves": [
+      "Tera Type: Water",
+      "Sassy Nature",
+      "Chilly Reception",
+      "Sludge Bomb / Future Sight / Thunder Wave"
+    ]
+  },
+  "corsola-galar": {
+    "moves": [
+      "Calm Nature",
+      "Stealth Rock",
+      "Night Shade",
+      "Whirlpool / Strength Sap"
+    ]
+  },
+  "zigzagoon-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "linoone-galar": {
+    "moves": [
+      "Knock Off",
+      "Double-Edge",
+      "Taunt",
+      "Parting Shot"
+    ]
+  },
+  "darumaka-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "darmanitan-galar-standard": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "darmanitan-galar-zen": {
+    "moves": [
+      "Icicle Crash",
+      "Flare Blitz",
+      "Earthquake",
+      "U-turn"
+    ]
+  },
+  "yamask-galar": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "stunfisk-galar": {
+    "moves": [
+      "Stealth Rock",
+      "Earthquake",
+      "Rock Slide",
+      "Curse"
+    ]
+  },
+  "zygarde-10": {
+    "moves": [
+      "Dragon Dance",
+      "Thousand Arrows",
+      "Outrage",
+      "Extreme Speed"
+    ]
+  },
+  "cramorant-gulping": {
+    "moves": [
+      "Bold Nature",
+      "Defog",
+      "Roost",
+      "Surf / Brave Bird"
+    ]
+  },
+  "cramorant-gorging": {
+    "moves": [
+      "Bold Nature",
+      "Defog",
+      "Roost",
+      "Surf / Brave Bird"
+    ]
+  },
+  "toxtricity-low-key": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "eiscue-noice": {
+    "moves": [
+      "Belly Drum",
+      "Substitute",
+      "Icicle Spear",
+      "Zen Headbutt"
+    ]
+  },
+  "indeedee-female": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "morpeko-hangry": {
+    "moves": [
+      "Jolly Nature",
+      "Aura Wheel",
+      "Knock Off",
+      "Rapid Spin / Parting Shot"
+    ]
+  },
+  "zacian-crowned": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Behemoth Blade",
+      "Close Combat / Wild Charge"
+    ]
+  },
+  "zamazenta-crowned": {
+    "moves": [
+      "Body Press",
+      "Iron Defense",
+      "Rest",
+      "Substitute"
+    ]
+  },
+  "eternatus-eternamax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "urshifu-rapid-strike": {
+    "moves": [
+      "Adamant Nature",
+      "Surging Strikes",
+      "Close Combat",
+      "Poison Jab / U-turn"
+    ]
+  },
+  "zarude-dada": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Knock Off",
+      "Power Whip / Jungle Healing"
+    ]
+  },
+  "calyrex-ice": {
+    "moves": [
+      "Tera Type: Fire",
+      "Brave Nature",
+      "Trick Room",
+      "Swords Dance / Glacial Lance / High Horsepower"
+    ]
+  },
+  "calyrex-shadow": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Astral Barrage",
+      "Grass Knot / Psychic / Trick"
+    ]
+  },
+  "venusaur-gmax": {
+    "moves": [
+      "Tera Type: Ground",
+      "Timid Nature",
+      "Leaf Storm",
+      "Sludge Bomb / Earth Power / Synthesis"
+    ]
+  },
+  "charizard-gmax": {
+    "moves": [
+      "Tera Type: Ground",
+      "Timid Nature",
+      "Hurricane",
+      "Flamethrower / Scorching Sands / Will-O-Wisp"
+    ]
+  },
+  "blastoise-gmax": {
+    "moves": [
+      "Modest Nature",
+      "Shell Smash",
+      "Surf",
+      "Ice Beam / Tera Blast"
+    ]
+  },
+  "butterfree-gmax": {
+    "moves": [
+      "Quiver Dance",
+      "Hurricane",
+      "Sleep Powder",
+      "Substitute"
+    ]
+  },
+  "pikachu-gmax": {
+    "moves": [
+      "Modest Nature",
+      "Volt Switch",
+      "Jungle Healing",
+      "Glare / Healing Wish"
+    ]
+  },
+  "meowth-gmax": {
+    "moves": [
+      "Tera Type: Normal",
+      "Adamant Nature",
+      "Fake Out",
+      "Feint / U-turn / Play Rough"
+    ]
+  },
+  "machamp-gmax": {
+    "moves": [
+      "Close Combat",
+      "Facade",
+      "Knock Off",
+      "Bullet Punch"
+    ]
+  },
+  "gengar-gmax": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Nasty Plot",
+      "Shadow Ball / Sludge Wave / Focus Blast"
+    ]
+  },
+  "kingler-gmax": {
+    "moves": [
+      "Swords Dance",
+      "Liquidation",
+      "Knock Off",
+      "High Horsepower"
+    ]
+  },
+  "lapras-gmax": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Modest Nature",
+      "Freeze-Dry",
+      "Hydro Pump / Alluring Voice / Ice Beam"
+    ]
+  },
+  "eevee-gmax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "snorlax-gmax": {
+    "moves": [
+      "Careful Nature",
+      "Curse",
+      "Body Slam",
+      "Heat Crash / Rest"
+    ]
+  },
+  "garbodor-gmax": {
+    "moves": [
+      "Spikes",
+      "Gunk Shot",
+      "Pain Split",
+      "Stomping Tantrum"
+    ]
+  },
+  "melmetal-gmax": {
+    "moves": [
+      "Double Iron Bash",
+      "Earthquake",
+      "Toxic",
+      "Protect"
+    ]
+  },
+  "rillaboom-gmax": {
+    "moves": [
+      "Adamant Nature",
+      "Grassy Glide",
+      "Wood Hammer",
+      "U-turn / Knock Off"
+    ]
+  },
+  "cinderace-gmax": {
+    "moves": [
+      "Jolly Nature",
+      "Pyro Ball",
+      "U-turn",
+      "Court Change / Will-O-Wisp"
+    ]
+  },
+  "inteleon-gmax": {
+    "moves": [
+      "Timid Nature",
+      "Hydro Pump",
+      "Ice Beam",
+      "Dark Pulse / U-turn"
+    ]
+  },
+  "corviknight-gmax": {
+    "moves": [
+      "Impish Nature",
+      "Brave Bird",
+      "Defog",
+      "U-turn / Roost"
+    ]
+  },
+  "orbeetle-gmax": {
+    "moves": [
+      "Bold Nature",
+      "Agility",
+      "Iron Defense",
+      "Body Press / Stored Power"
+    ]
+  },
+  "drednaw-gmax": {
+    "moves": [
+      "Jolly Nature",
+      "Shell Smash",
+      "Liquidation",
+      "Stone Edge / Crunch"
+    ]
+  },
+  "coalossal-gmax": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Calm Nature",
+      "Rapid Spin",
+      "Stealth Rock / Flamethrower / Earth Power"
+    ]
+  },
+  "flapple-gmax": {
+    "moves": [
+      "Grav Apple",
+      "Draco Meteor",
+      "Sucker Punch",
+      "U-turn"
+    ]
+  },
+  "appletun-gmax": {
+    "moves": [
+      "Sassy Nature",
+      "Apple Acid",
+      "Dragon Pulse",
+      "Dragon Tail / Recover"
+    ]
+  },
+  "sandaconda-gmax": {
+    "moves": [
+      "Impish Nature",
+      "Stealth Rock",
+      "Earthquake",
+      "Rock Blast / Rest"
+    ]
+  },
+  "toxtricity-amped-gmax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "centiskorch-gmax": {
+    "moves": [
+      "Fire Lash",
+      "Leech Life",
+      "Power Whip",
+      "Knock Off"
+    ]
+  },
+  "hatterene-gmax": {
+    "moves": [
+      "Bold Nature",
+      "Psychic Noise",
+      "Draining Kiss",
+      "Pain Split / Nuzzle"
+    ]
+  },
+  "grimmsnarl-gmax": {
+    "moves": [
+      "Careful Nature",
+      "Parting Shot",
+      "Thunder Wave",
+      "Spirit Break / Sucker Punch"
+    ]
+  },
+  "alcremie-gmax": {
+    "moves": [
+      "Bold Nature",
+      "Calm Mind",
+      "Acid Armor",
+      "Draining Kiss / Stored Power"
+    ]
+  },
+  "copperajah-gmax": {
+    "moves": [
+      "Careful Nature",
+      "Stealth Rock",
+      "Iron Head",
+      "Knock Off / Whirlwind"
+    ]
+  },
+  "duraludon-gmax": {
+    "moves": [
+      "Timid Nature",
+      "Flash Cannon",
+      "Draco Meteor",
+      "Body Press / Stealth Rock"
+    ]
+  },
+  "urshifu-single-strike-gmax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "urshifu-rapid-strike-gmax": {
+    "moves": [
+      "Adamant Nature",
+      "Surging Strikes",
+      "Close Combat",
+      "Poison Jab / U-turn"
+    ]
+  },
+  "toxtricity-low-key-gmax": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "growlithe-hisui": {
+    "moves": [
+      "Adamant Nature",
+      "Flare Blitz",
+      "Head Smash",
+      "Psychic Fangs / Rock Blast"
+    ]
+  },
+  "arcanine-hisui": {
+    "moves": [
+      "Jolly Nature",
+      "Head Smash",
+      "Flare Blitz",
+      "Extreme Speed / Stealth Rock"
+    ]
+  },
+  "voltorb-hisui": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "electrode-hisui": {
+    "moves": [
+      "Tera Type: Fire",
+      "Timid Nature",
+      "Volt Switch",
+      "Thunderbolt / Leaf Storm / Taunt"
+    ]
+  },
+  "typhlosion-hisui": {
+    "moves": [
+      "Tera Type: Fire",
+      "Timid Nature",
+      "Eruption",
+      "Lava Plume / Infernal Parade / Focus Blast"
+    ]
+  },
+  "qwilfish-hisui": {
+    "moves": [
+      "Careful Nature",
+      "Spikes",
+      "Barb Barrage",
+      "Crunch / Pain Split"
+    ]
+  },
+  "sneasel-hisui": {
+    "moves": [
+      "Jolly Nature",
+      "Swords Dance",
+      "Close Combat",
+      "Gunk Shot / Throat Chop"
+    ]
+  },
+  "samurott-hisui": {
+    "moves": [
+      "Jolly Nature",
+      "Ceaseless Edge",
+      "Razor Shell",
+      "Aqua Jet / Knock Off"
+    ]
+  },
+  "lilligant-hisui": {
+    "moves": [
+      "Adamant Nature",
+      "Close Combat",
+      "Solar Blade",
+      "Triple Axel / Tera Blast"
+    ]
+  },
+  "zorua-hisui": {
+    "moves": [
+      "Timid Nature",
+      "Tera Blast",
+      "Hex",
+      "Will-O-Wisp / Knock Off"
+    ]
+  },
+  "zoroark-hisui": {
+    "moves": [
+      "Timid Nature",
+      "Shadow Ball",
+      "Focus Blast",
+      "Hyper Voice / Nasty Plot"
+    ]
+  },
+  "braviary-hisui": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Psychic",
+      "Hurricane / Heat Wave / Agility"
+    ]
+  },
+  "sliggoo-hisui": {
+    "moves": [
+      "Modest Nature",
+      "Draco Meteor",
+      "Flash Cannon",
+      "Acid Spray / Thunderbolt"
+    ]
+  },
+  "goodra-hisui": {
+    "moves": [
+      "Quiet Nature",
+      "Draco Meteor",
+      "Heavy Slam",
+      "Knock Off / Protect"
+    ]
+  },
+  "avalugg-hisui": {
+    "moves": [
+      "Adamant Nature",
+      "Stealth Rock",
+      "Mountain Gale",
+      "Body Press / Rapid Spin"
+    ]
+  },
+  "decidueye-hisui": {
+    "moves": [
+      "Jolly Nature",
+      "Triple Arrows",
+      "U-turn",
+      "Leaf Blade / Brave Bird"
+    ]
+  },
+  "dialga-origin": {
+    "moves": [
+      "Tera Type: Ghost",
+      "Timid Nature",
+      "Draco Meteor",
+      "Steel Beam / Stealth Rock / Dragon Tail"
+    ]
+  },
+  "palkia-origin": {
+    "moves": [
+      "Tera Type: Fairy",
+      "Timid Nature",
+      "Hydro Pump",
+      "Fire Blast / Draco Meteor / Substitute"
+    ]
+  },
+  "basculin-white-striped": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "basculegion-female": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "enamorus-therian": {
+    "moves": [
+      "Modest Nature",
+      "Calm Mind",
+      "Moonblast",
+      "Earth Power / Mystical Fire"
+    ]
+  },
+  "tauros-paldea-combat-breed": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tauros-paldea-blaze-breed": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tauros-paldea-aqua-breed": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "wooper-paldea": {
+    "moves": [
+      "Earthquake",
+      "Toxic",
+      "Recover",
+      "Spikes"
+    ]
+  },
+  "oinkologne-female": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "dudunsparce-three-segment": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "palafin-hero": {
+    "moves": [
+      "Adamant Nature",
+      "Jet Punch",
+      "Flip Turn",
+      "Wave Crash / Zen Headbutt"
+    ]
+  },
+  "maushold-family-of-three": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tatsugiri-droopy": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "tatsugiri-stretchy": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "squawkabilly-blue-plumage": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "squawkabilly-yellow-plumage": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "squawkabilly-white-plumage": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "gimmighoul-roaming": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "koraidon-limited-build": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "koraidon-sprinting-build": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "koraidon-swimming-build": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "koraidon-gliding-build": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "miraidon-low-power-mode": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "miraidon-drive-mode": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "miraidon-aquatic-mode": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "miraidon-glide-mode": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ursaluna-bloodmoon": {
+    "moves": [
+      "Modest Nature",
+      "Calm Mind",
+      "Blood Moon",
+      "Hyper Voice / Earth Power"
+    ]
+  },
+  "ogerpon-wellspring-mask": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ogerpon-hearthflame-mask": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "ogerpon-cornerstone-mask": {
+    "moves": [
+      "undefined",
+      "undefined",
+      "undefined",
+      "undefined"
+    ]
+  },
+  "terapagos-terastal": {
+    "moves": [
+      "Impish Nature",
+      "Rapid Spin",
+      "Stealth Rock",
+      "Toxic / Roar"
+    ]
+  },
+  "terapagos-stellar": {
+    "moves": [
+      "Impish Nature",
+      "Rapid Spin",
+      "Stealth Rock",
+      "Toxic / Roar"
+    ]
+  }
+}
